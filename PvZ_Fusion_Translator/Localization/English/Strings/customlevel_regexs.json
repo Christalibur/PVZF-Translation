@@ -1,1 +1,6 @@
-{}
+{
+  "<size=20>点击格子的植物所在区域面积为：([^\\s]+)": "<size=20>Area of the Plant at selected tile: {0}",
+  "<size=20>在<color=yellow>第([^\\s]+)波</color>时，检测所有地刺花盆上的植物面积：\n如果该植物所在的区域面积<color=red>不为([^\\s]+)，则在对应地刺花盆上产生3次小丑爆炸\n</color>你可以随时按<color=yellow>H键</color>来重新显示这条信息": "<size=20>At <color=yellow>Wave {0}</color>, all plants on Spike Pots will be checked for area size:\nIf a plant's connected area is <color=red>not equal to {1}, 3 JITB explosions will occur on the corresponding Spike Pot.\n</color>Press <color=yellow>H</color> at any time to display this message again",
+  "<size=20>点击格子的植物所在区域面积为：([^\\s]+)<size=20>距离下次面积判定剩余波次：([^\\s]+)<size=20>    下次判定的需求面积：([^\\s]+)": "<size=20>Area of the Plant at selected tile: {0} <size=20>Waves until next area check:{1}<size=20> Required area next check: {2}",
+  "<size=20>点击格子的植物所在区域面积为：([^\\s]+)\n<size=20>距离下次面积判定剩余波次：([^\\s]+)<size=20>    下次判定的需求面积：([^\\s]+)": "<size=20>Area of the Plant at selected tile: {0}\n<size=20>Waves until next area check:{1}<size=20> Required area next check: {2}"
+}
