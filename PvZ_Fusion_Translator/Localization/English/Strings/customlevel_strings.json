@@ -8,5 +8,11 @@
   "<size=18>tip：小丑爆炸不会伤害到地刺花盆，保护好你自己种植的植物即可\n另外，地刺花盆<color=red>不会</color>参与面积计算，所有空格子的面积均视为0": "<size=18>JITB explosions can't damage Spike Pots. Just protect your own plants.\nSpike Pots <color=red>DO NOT</color> count toward area calculations.\nAll empty tiles are treated as having an area of 0.",
   "<size=18>tip：你可以使用南瓜或者花盆这类可叠种的植物来灵活调整面积": "<size=18>Use stackable plants like Pumpkin or Flower Pot to adjust area sizes flexibly.",
   "<size=18>如果在第5波前没有进行任何右键操作，游戏将开启<color=#79FF79>兼容模式</color>\n兼容模式启用后，你将可以通过种植植物卡片来测量特定格子的面积": "<size=18>If you do not right-click before Wave 5, the level will enable <color=#79FF79>compat mode</color>\nIn compat mode, planting down plants measures the area of specific zones.",
-  "<size=18><color=#79FF79>兼容模式已开启</color>\n你可以通过种植<color=#CF9E9E>多功能南瓜</color>来查看植物面积": "<size=18><color=#79FF79>Compat mode enabled</color>\nYou can plant down <color=#CF9E9E>Omni Pumpkin</color> to view the area of plants."
+  "<size=18><color=#79FF79>兼容模式已开启</color>\n你可以通过种植<color=#CF9E9E>多功能南瓜</color>来查看植物面积": "<size=18><color=#79FF79>Compat mode enabled</color>\nYou can plant down <color=#CF9E9E>Omni Pumpkin</color> to view the area of plants.",
+  "简单模式": "Easy Mode",
+  "要求的面积区间会在3~5中抽取": "The required area size will be randomly picked from 3 to 5",
+  "正常模式": "Normal Mode",
+  "要求的面积区间会在2~8中抽取": "The required area size will be randomly picked from 2 to 8",
+  "困难模式": "Hard Mode",
+  "要求的面积区间会在2~14中抽取": "The required area size will be randomly picked from 2 to 14"
 }
