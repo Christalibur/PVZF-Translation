@@ -39,7 +39,7 @@ Por favor revisa nuestra comunidad para futuras actualizaciones.
     - Fragmento Obsidiana (Obsidiana Hiperestable > Seta Desesporada)
 - Fusiones Legendarias:
   - Fumigador Eclipse
-  - Pre-emperador Solar
+  - Emperador Antiguo
 - Especial / Misceláneo:
   - Flecha
   - La esparción de Setas Desesporadas por Humoseta/Seta Miédica ahora tienen IDs separadas.
