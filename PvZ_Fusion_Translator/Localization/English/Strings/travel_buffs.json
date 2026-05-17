@@ -139,7 +139,7 @@
         "18": "Charmatron: Hypnotization HP threshold increased from 60% to 100% | Pumpkaptivator: Damage to captured hypnotized Zombies halved",
         "19": "Charmatron: Attack Interval → 1s, Charge Level will not drop below 2 and can be fed metal to reach Charge Level 3 for 5 mins | Pumpkaptivator: Charge Level 3 unlocked",
         "20": "Apeacalypse Minigun & Railgun: Attack Power ×3",
-        "21": "Apeacalypse Minigun: Lv1: Doing Ultimate move refunds 50k energy; Lv2: Ultimate also deals 20% bonus damage that ignores DR | Apeacalypse Railgun: Lv1: Defense increases as Toughness decreases. Below 500 HP, becomes immune to damage under 1k; Lv2: Below 500 HP, base damage ×2",
+        "21": "Apeacalypse Minigun: Lv1: Doing Ultimate move refunds 50k energy; Lv2: Ultimate also deals 20% bonus damage that ignores DR | Apeacalypse Railgun: Lv1: Defense increases as HP decreases. Below 500 HP, becomes immune to damage under 1k; Lv2: Below 500 HP, base damage ×2",
         "22": "Helios Cabbage: When Sun exceeds 15k, each of Helios Cabbage's attacks consumes 0.5% of the excess to boost projectile damage by 20 per 1 Sun spent | Selene Cabbage: Damage increased by 3× per Lumos Level",
         "23": "Helios Cabbage: Mini Sun deals 3× damage | Selene Cabbage: Mini Moon heals 3×",
         "24": "Laser & Blast Pumpkin: Wingmen Amount 1 → 3",
