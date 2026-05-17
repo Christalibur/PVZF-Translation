@@ -39,7 +39,7 @@ Por favor revisa nuestra comunidad para futuras actualizaciones.
     - Fragmento Obsidiana (Obsidiana Hiperestable > Seta Desesporada)
 - Fusiones Legendarias:
   - Fumigador Eclipse
-  - Pre-emperador Solar
+  - Emperador Antiguo
 - Especial / Misceláneo:
   - Flecha
   - La esparción de Setas Desesporadas por Humoseta/Seta Miédica ahora tienen IDs separadas.
@@ -52,12 +52,12 @@ Por favor revisa nuestra comunidad para futuras actualizaciones.
   - Zompingüino Emperador
   - Yombi Esquimal*
   * (El Yombi Esquimal original se cambia a Yombi Lanzanieves)
-  - Yombi Duplihielo
+  - Yombi Caraiceberg
   - Vegezombi Guisantralladora
   - Vegezombi Hielantralladora
 
 4. Nuevas Skins
-- Calatrón > Calatrón Pro Máx.
+- Calatrón > Trón Fijo
 
 5. Nuevos Niveles
 - Minijuegos:
@@ -70,7 +70,7 @@ Por favor revisa nuestra comunidad para futuras actualizaciones.
 - Odisea: Aventura ha sido remasterizado
 - Entrada de Defensa del Jardín ha sido movida al Jardín Zen.
 - Modo Cosecha: Nueva dificultad: Caos. Semillas no usan durabilidad aquí, pero los zombis consiguen mejoras aleatorias.
-- Nuevo Mapa: Tundra: Dentro del campamento silencioso, parece yacer enterrado un pasado oculto… El fertilizante no aparece automáticamente en este mapa.
+- Nuevo Mapa - Tundra: Dentro del campamento silencioso, parece yacer enterrado un pasado oculto… El fertilizante no aparece automáticamente en este mapa.
 
 6. Nueva Sinergía
 - Cuando Colipultita y Copitralladora Augmentada se plantan en la misma casilla, los proyectiles de este último se dividen una vez más. Los proyectiles normales y especiales de ambas plantas heredan algunas propiedades de los disparos de la otra. (ADVERTENCIA: Provocará lag)
