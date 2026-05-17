@@ -281,6 +281,20 @@
             "cost": "<size=39>Costo: <color=red>50</color>\nRecarga: <color=red>15 Segundos</color></size>"
         },
         {
+   "seedType": 40,
+   "name": "Peluscarcha",
+   "introduce": "<size=39><color=#3D1400>Para sobrevivir en la tundra helada, un líquen desarrolló un abrigo de suave pelusa blanca, el cual llevó a su nombre icónico. Pero es más problema que beneficio: se le cae constantemente el pelo, y otras plantas simplemente no pueden resistirse a acariciarla, como si fuera un diente de león salvaje.</color></size>",
+   "info": "<size=39>Soporte del <color=#0077b6>Sistema Criogénico</color>\nExplota en un anillo de bolas de nieve, enfriando ambos a plantas y zombis alrededor.\n<color=#0077b6>Sistema Criogénico:</color>\n</color>- Aplica congelación profunda.</color>\n\n<color=#3D1400>Daño:</color> <color=red>600*7\n<color=#3D1400>Especial:</color> <color=red>\n- Las bolas de nieve disparadas a la izquierda infligen 1 de daño a plantas y las congelan en un área de 3x3\n- Todas las otras bolas de nieve hacen 600 de daño a zombis y aplican congelación profunda por 1 segundo.\n<color=#3D1400>Nombre Científico:</color> <color=red>Lichen nevasse</color></size>",
+  "cost": "<size=39>Costo: <color=red>100</color>\nRecarga: <color=red>30 Segundos</color></size>"
+ },
+ {
+   "seedType": 219,
+   "name": "Flecha",
+   "introduce": "<size=39><color=#3D1400>Las flechas son componentes esenciales de los sistemas de transporte. Gracias a ellas, los paquetes de semillas siguen fluyendo de manera constante desde las líneas traseras hasta las delanteras. Incluso cuando se retiran de los transportadores, aún conservan su capacidad de dirigir el movimiento.</color></size>",
+   "info": "<size=39>Zombis, porfavor sigan las direcciones. Sin empujones; muevanse en un orden impecable.\n\n<color=#3D1400>Especial:</color> <color=red>\n- No puede ser movido por el guante\n Haz clic para seleccionar otra flecha en la misma fila o columna y configurarlo como la destinación\n- Los zombis que tocan una flecha se redireccionarán hacia tal dirección.\n- Usado en Organizombis y el Super Editor de Niveles para crear Niveles TD</color></size>",
+  "cost": ""
+ },
+ {
     "seedType": 220,
     "name": "Jarrón Reciclador",
    "introduce": "<size=39><color=#3D1400>Oportunidad dorada será la plataforma de trueque más grande entre plantas. Yo jo jo... El Jarrón Reciclador ayuda a las plantas a intercambiar artículos de segunda mano no utilizados y también ofrece a quienes buscan un viaje aleatorio una oportunidad y una manera de llegar allí.</color></size>",
@@ -568,6 +582,20 @@
             "cost": "<color=purple>Condición de Uso:\nModo Cosecha | Planta Odisea Legendaria</color></size>"
         },
         {
+   "seedType": 306,
+   "name": "Fumigador Eclipse",
+   "introduce": "<size=39><color=#3D1400>Nacido de las cenizas dispersas del amanecer del universo, duerme envuelto en la oscuridad, con sombras como almohada. Eones de sueño no han hecho nada para disminuir su poder. No importa el enemigo, los enfrenta con nada más que desdén. Sin embargo, constantemente cuida y habla con esmero su abundante cabello. Sus enemigos se mueren...de aburrimiento.</color></size>",
+   "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\nDispara una neblina tóxica y pinchos venenosos que rápidamente corrosionan a zombis, creciendo más fuerte mientras más dispare.\n<color=#133816>Sistema Venenoso:</color></color>\n- Aplica 1 punto por impacto.\n- Ataques infligen el Efecto Tóxico.</color>\n\n<color=#3D1400>Especial:</color> <color=red>\n- Cuando ataca, rocea sus esporas venenosas en la fila enterna y dispara 2 proyectiles de un vórtice\n- Esporas Venenosas: Perforación infinita; al atacar, infligen 1 Punto Venenoso y inflige el Efecto Tóxico; inflige 3% PS máximos a zombis bajo la mitad de su durabilidad.\n- Proyectiles: Perforan hasta 3 veces; al atacar, infligen 1 Punto Venenoso y inflige el Efecto Tóxico en un área pequeña, infligiendo o, daño venenoso, o daño de proyectil dependiendo de cual sea más dañino\n-Ataca más rápido tras 15 ataques consecutivos, y aun más rápido despues de 30</color></size>",
+            "cost": "<color=purple>Condición de Uso:\nModo Cosecha | Planta Odisea Legendaria</color></size>"
+ },
+ {
+   "seedType": 307,
+   "name": "Emperador Antiguo",
+   "introduce": "<size=39><color=#3D1400>\"Cómo se verá el jardín del futuro?\" Para averiguarlo, el Emperador Solar del pasado construyó una máquina del tiempo y viajó al presente. Tenía planeado hecharle un vistazo y regresar, pero después de ver versiones de si mismo destruyendo un laboratorio, inhabitando el cuerpo de un zombi, y hasta saltarse una fiesta en la playa, decidió quedarse un tiempo para poner todo en su lugar.</color></size>",
+   "info": "<size=39>Genera Sol al ser dañado. Puede usar estos Soles para generar una Nuez Solar Gigante al frente.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>\n-Al recibir daño, nega el impacto y de cambio recibe un daño fijo de 50 y suelta 15 Sol.\n- Al hacer clic en este, gasta 500 Soles para recuperar toda su dureza y generar una Nuez Solar Gigante en la casilla al frente.</color></size>",
+  "cost": "<color=purple>Condición de Uso:\nModo Cosecha | Planta Odisea Legendaria</color></size>"
+ },
+ {
             "seedType": 350,
             "name": "Lanzasoles (TD)",
             "introduce": "<size=39><color=#3D1400>\"En realidad, el Girasol detrás de mí es mi hermana.\" le explica a todos Lanzasoles. \"Somos inseparables desde que nacimos. Le encanta producir soles, y yo destruyo zombis en su nombre.\" Pero todo el mundo sabe la verdad: el alegre hermano Guisante tiene un complejo de hermana total. Al fin y al cabo, los zombis que se acercan a su hermana siempre terminan misteriosamente vaporizados por los mismos rayos del sol.</color></size>",
