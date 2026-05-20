@@ -794,7 +794,7 @@
         },
         {
             "theZombieType": 221,
-            "name": "Zombot Kírov",
+            "name": "Aereobot Kírov",
             "introduce": "<size=39><color=#3D1400>Este zombi volador no necesita alas... ¡tiene motores a chorro y una actitud explosiva!</color>",
             "info": "<size=39>Bombardea tu jardín y llama refuerzos aéreos.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>15000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Minijefe. Inmune a ser empujado o derribado por los rasgos especiales de Magnetocactus.\n- Muy rápido en tierra; aplasta plantas.\n- Con 2/3 de su durabilidad, se vuelve invencible brevemente y luego despega, invocando un grupo de Kírov Zomppelines cada 3 segundos y lanzando cajitas sorpresa.</color></size>"
         },

@@ -33,7 +33,7 @@ Por favor revisa nuestra comunidad para futuras actualizaciones.
     - Copitralladora Augmentada (Lanzaguisantes + Copitralladora)
     - Brillantralladora Augmentada (Lanzaguisantes + Brillantralladora)
   - Épico:
-    - Sargento Deportivo (Ferroguisantes + Deportralladora)
+    - Sargento Ferreo (Ferroguisantes + Deportralladora)
     - Francoguisantes Sincronizante (Sargento Deportivo + Cronofragmento)
     - Bipetiplaga (Ajo + Bipetiprisma)
     - Fragmento Obsidiana (Obsidiana Hiperestable > Seta Desesporada)
