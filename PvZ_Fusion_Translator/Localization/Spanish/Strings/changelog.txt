@@ -34,7 +34,7 @@ Por favor revisa nuestra comunidad para futuras actualizaciones.
     - Brillantralladora Augmentada (Lanzaguisantes + Brillantralladora)
   - Épico:
     - Sargento Ferreo (Ferroguisantes + Deportralladora)
-    - Francoguisantes Sincronizante (Sargento Deportivo + Cronofragmento)
+    - Francoguisantes Sincronizador (Sargento Deportivo + Cronofragmento)
     - Bipetiplaga (Ajo + Bipetiprisma)
     - Fragmento Obsidiana (Obsidiana Hiperestable > Seta Desesporada)
 - Fusiones Legendarias:
@@ -73,7 +73,7 @@ Por favor revisa nuestra comunidad para futuras actualizaciones.
 - Nuevo Mapa - Tundra: Dentro del campamento silencioso, parece yacer enterrado un pasado oculto… El fertilizante no aparece automáticamente en este mapa.
 
 6. Nueva Sinergía
-- Cuando Colipultita y Copitralladora Augmentada se plantan en la misma casilla, los proyectiles de este último se dividen una vez más. Los proyectiles normales y especiales de ambas plantas heredan algunas propiedades de los disparos de la otra. (ADVERTENCIA: Provocará lag)
+- Cuando Colipultita y Copitralladora Augmentada se plantan en la misma casilla, los proyectiles de este primero se dividen una vez más. Los proyectiles normales y especiales de ambas plantas heredan algunas propiedades de los disparos de la otra. (ADVERTENCIA: Provocará lag)
 
 7. Nuevos Ajustes del Super Editor de Niveles
 - Ahora permite creación, modificación y emparejamiento de nodos para activar eventos de juego por un sistema pseudo-código.
