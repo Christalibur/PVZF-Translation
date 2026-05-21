@@ -298,7 +298,7 @@
             "theZombieType": 49,
             "name": "Frost Legion Snowball Launcher",
             "introduce": "<align=left><size=36><color=black>\"Snowball fight!\" Snowball Launcher Zombie wakes up from his icy slumber, flinging snowballs wildly in every direction.\n\n\"Should we tell him?\"\n\"Nah, let's see how long it takes him to figure it out.\"\n\nSMACK!—Another snowball lands.\n\n\"That makes fourteen.\"</color>",
-            "info": "<size=36>Snowball Launcher Zombie can attack your plants with snowballs and freeze them.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Damage: </color><color=#4B0082>20/2s</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Chill and Freeze. Vulnerable to Deep Chill.\n<color=black>•</color> After appearing, it will continually launch snowballs at plants, which will deal 20 damage and explode upon impact, disabling plants for 5s in a 3×3 range. Snowballs inflict 10 Cryo points to hypnotized zombies affected.</color>\n<color=black>Weakness: </color><color=#4B0082>Umbrella Rind</color>"
+            "info": "<size=36>Snowball Launcher Zombie can attack your plants with snowballs and freeze them.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Damage: </color><color=#4B0082>20/2s</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Chill and Freeze. Vulnerable to Deep Chill.\n<color=black>•</color> After appearing, it will continually launch snowballs at plants, which will deal 20 damage and explode upon impact, freezing plants for 5s in a 3×3 range. Snowballs inflict 10 Cryo points to hypnotized zombies affected.</color>\n<color=black>Weakness: </color><color=#4B0082>Umbrella Rind</color>"
         },
         {
             "theZombieType": 50,
@@ -310,7 +310,7 @@
             "theZombieType": 51,
             "name": "Frost Legion Trident Thrower",
             "introduce": "<align=left><size=36><color=black>At the ongoing 5th Undead Olympics Winter Games, Frost Legion Trident Thrower hogs all the spotlight. He plans to use his prize money to buy a new sled for himself and his crew—and maybe treat them to a luxurious foot massage to make up for all the damage from stepping on Spikeweeds.</color>",
-            "info": "<size=36>From the snowy plains comes the Frost Legion Trident Thrower — silencing foes with every icy toss!\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Chill and Freeze. Vulnerable to Deep Chill.\n<color=black>•</color> Inherits traits from Trident Zombie. Ice Tridents are not attracted to Umbrellas and apply Silence for 5s on hit.</color>"
+            "info": "<size=36>From the snowy plains comes the Frost Legion Trident Thrower — silencing foes with every icy toss!\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Chill and Freeze. Vulnerable to Deep Chill.\n<color=black>•</color> Inherits traits from Trident Zombie. Ice Tridents are not attracted to Umbrellas and apply freeze for 5s on hit.</color>"
         },
         {
             "theZombieType": 52,
@@ -322,7 +322,7 @@
             "theZombieType": 53,
             "name": "Frost Legion Freezer Disc",
             "introduce": "<align=left><size=36><color=black>Before every liftoff, the crew of the Freezer Disc spends half an hour clearing snow and ice — and dragging out the Snowfurs hiding in the corners. \"Getting this frozen lump off the ground eats up a ridiculous amount of fuel,\" the pilot grumbles.</color>",
-            "info": "<size=36>It's snowing! This chilly guest drifts in with flurries, silences plants, and leaves with backup.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Blover. Creates snowflakes while moving, silencing plants below. Slows down over time — when speed reaches zero, reverses direction. Upon exit, summons a Frost Legion Squad: one each of Shieldbearer, Snowball Launcher, and Trident Thrower Zombies.</color>"
+            "info": "<size=36>It's snowing! This chilly guest drifts in with flurries, freezes plants, and leaves with backup.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Blover. Creates snowflakes while moving, freezing plants below. Slows down over time — when speed reaches zero, reverses direction. Upon exit, summons a Frost Legion Squad: one each of Shieldbearer, Snowball Launcher, and Trident Thrower Zombies.</color>"
         },
         {
             "theZombieType": 54,
@@ -340,13 +340,13 @@
             "theZombieType": 56,
             "name": "Snowfur",
             "introduce": "<align=left><size=36><color=black>Research into the biological classification of Snowfurs has seen little progress. After all, you can't expect zombies—who lack brains—to be academically sharp. Most can’t even tell a real Snowfur from a Yeti Zombie in a Snowfur pelt. Thankfully, Dr. Edgar offered a brilliant method: 'The smarter-looking one is the Snowfur.'</color>",
-            "info": "<size=36>A hostile creature native to the snowy plains.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill. When zombies destroy an Iceblock with no corresponding Zombotany, a Snowfur appears. Moves very slowly, crushes plants, but does not directly attack.</color>"
+            "info": "<size=36>A hostile creature native to the snowy plains.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill. When zombies destroy an Ice block with no corresponding Zombotany, a Snowfur appears. Moves very slowly, crushes plants, but does not directly attack.</color>"
         },
         {
             "theZombieType": 57,
             "name": "Elder Snowfur",
             "introduce": "<align=left><size=36><color=black>Stronger, wiser, and with a heavier tail than other snow beasts, what truly made him leader was his remarkable leap — guiding his kin to the source of the frozen waterfall.</color>",
-            "info": "<size=36>Apex of the snowy plains.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill. When zombies destroy an Iceblock with no corresponding Zombotany, a Snowfur appears, with a 1/4 chance of it being an Elder Snowfur. Moves very slowly and crushes plants. Dashes 2 tiles forward on appearance, ignoring plants.</color>"
+            "info": "<size=36>Apex of the snowy plains.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill. When zombies destroy an Ice block with no corresponding Zombotany, a Snowfur appears, with a 1/4 chance of it being an Elder Snowfur. Moves very slowly and crushes plants. Dashes 2 tiles forward on appearance, ignoring plants.</color>"
         },
         {
             "theZombieType": 58,
