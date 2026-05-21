@@ -3889,7 +3889,7 @@
             "seedType": 1379,
             "name": "Triplantern",
             "introduce": "<color=#3D1400>Triplantern's favorite number is three. Triple the light, triple the vision, even triple the salary. With savings that generous, he can afford triple the snacks, neatly stored in his triple lamp cases. The triple things that he hates are triple the zombies, triple the waves and triple the gacha levels.</color>",
-            "info": "Provides triple the Lumos of a normal Plantern and splits lasers into three.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Provides 3 Lumos levels in a 3×3 area.\n<color=black>•</color> Lumos Cactus and Ray-shroom anti-ground lasers that pass through will create two additional lasers in the same lane, each dealing 30 damage</color>",
+            "info": "Provides triple the Lumos of a normal Plantern and splits lasers into three.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Provides 3 Lumos levels in a 3×3 area.\n<color=black>•</color> Lumos Cactus and Ray-shroom anti-ground lasers that pass through will create two additional lasers in the same lane, each dealing 30 damage.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Threepeater + Plantern</color>"
         },
         {
