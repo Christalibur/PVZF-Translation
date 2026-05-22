@@ -22,7 +22,7 @@ Por favor revisa nuestra comunidad para futuras actualizaciones.
   - Apestorcha (Plantorcha + Ajo)
   - Salpicaflor (Apisonaflor > Marseta)
   - Saguaroseta (Humoseta + Cactus)
-  - Hipnotorcha (Hipnoseta + Plantorcha)
+  - Hipnotizanorcha (Hipnoseta + Plantorcha)
   - Estiralga (Humoseta + Zampalga)
   - Coltapulta Ígnea (Jalapeño + Coltapulta)
   - Coltaclismo (Petaseta + Coltapulta)

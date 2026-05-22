@@ -4124,60 +4124,60 @@
    "cost": "<size=39>Costo: <color=red>200, 275</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1394,
-            "name": "Hypnowood",
-            "introduce": "<align=left><size=36><color=black>As a rising star of the poolside variety scene, Hypnowood quickly gained a huge following of zombies and plants alike. Her fiery charm and helpful nature became her trademark. But like many public figures, she is plagued by rumors: plastic surgery and excessive use of cosmetics have always followed her.</color>",
-            "info": "<size=36>Summons Gatling Pea Zombies from its flames.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Summons a hypnotized Gatling Pea Zombie for every 60 projectiles ignited.\n<color=black>•</color> Hypno Peas count as 4 projectiles.\n<color=black>•</color> When bitten, hypnotizes the attacker, and reverts to Torchwood.\n<color=black>•</color> Affects the following projectiles:\n<color=black>-</color> Peas: Ignited for +20 damage;\n<color=black>-</color> Hypno Peas: Ignited for +30 damage;\n<color=black>-</color> Snow Peas: Reverts to Peas.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Hypno-shroom + Torchwood</color>"
+    "seedType": 1394,
+    "name": "Hipnotizantorcha",
+   "introduce": "<size=39><color=#3D1400>Como estrella emergente del mundo del entretenimiento junto a la piscina, Hipnotizantorcha rápidamente se ganó una enorme cantidad de seguidores, tanto zombis como plantas. Su encanto irresistible y su naturaleza servicial se convirtieron en su sello distintivo. Pero, como muchas figuras públicas, está rodeada de rumores: la cirugía plástica y el uso excesivo de cosméticos siempre la han perseguido.</color></size>",
+   "info": "<size=39>Invoca Vegezombis Guisantralladora de sus fuegos.</color>\n\n<color=#3D1400>Especial:</color> <color=red>\n- Invoca a un Vegezombi Guisantralladora hipnotizado por cada 60 proyectiles que enciende.\n- Guisantes hipnóticos cuentan como 4 proyectiles.\n- Al ser mordido, hipnotiza al zombi que lo consume, y regresa a ser una Plantorcha.\n- Afecta los siguientes proyectiles:\n  • Guisantes: Encendidos para +20 de daño.\n  • Guisantes Hipnóticos: Encendidos para +30 de daño\n  • Hielaguisantes: Regresados a guisantes normales.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Hipnoseta + Plantorcha</color></size>",
+   "cost": "<size=39>Costo: <color=red>250, 325</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1395,
-            "name": "Grapple Kelp",
-            "introduce": "<align=left><size=36><color=black>Grapple Kelp has a unique sense of art, believing that absolute chaos is the highest form of beauty. His untamed curls have never been groomed, instead growing into a style of their own. Because of this, he has been absent from every underwater zombie cleanup mission.</color>",
-            "info": "<size=36>Extends tendrils to repeatedly strike enemies in front.\n\n<color=black>Damage: </color><color=#8B0000>30×3/3s (Piercing)</color>\n<color=black>Special: </color><color=#8B0000>Attacks all zombies within 4.5 tiles in front three times. Each hit applies 1 Tangle Stack and triggers these effects:\n<color=black>-</color> 1st hit: +1 extra stack;\n<color=black>-</color> 2nd hit: Deals additional damage equal to 5×(current stacks on the zombie);\n<color=black>-</color> 3rd hit: knockback.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Fume-shroom > Tangle Kelp</color>"
+    "seedType": 1395,
+    "name": "Estiralga",
+   "introduce": "<size=39><color=#3D1400>Estiralga posee un singular sentido artístico, convencido de que el caos absoluto es la máxima expresión de belleza. Sus rizos indomables jamás han sido peinados, adquiriendo un estilo propio. Por ello, ha estado ausente en todas las misiones submarinas de limpieza de zombis.</color></size>",
+   "info": "<size=39>Extiende sus tentáculos para golpear repetidamente a los enemigos que tiene delante.</color>\n\n<color=#3D1400>Daño:</color> <color=red>30*3 cada 3s (perforante)\n<color=#3D1400>Especial:</color> <color=red>\n- Ataca a todos los zombis dentro de su rango 3 veces. Cada golpe activa estos efectos:\n  • Primer Golpe: +1 punto enredadera adicional.\n  • Segundo Golpe: Inflige daño adicional igual a 5*(puntos actuales en el zombi).\n  • Tercer Golpe: Empuja a los zombis en su rango.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Zampalga + Humoseta (En Orden)</color></size>",
+   "cost": "<size=39>Costo: <color=red>100, 175</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1396,
-            "name": "Puff-shroom Spreading: Fume-shroom",
-            "introduce": "<align=left><size=36><color=black></color>",
-            "info": "<size=36>A mushroom cluster formed from Puff-shrooms dispersed by a Fume-shroom.\n\n<color=black>Special: </color><color=#8B0000>Plants down a Fume-shroom in place of the Puff-shroom and spawns Puff-shrooms in equal intervals ahead (decreasing per tile). The more Puff-shrooms consumed in fusion, the more will be spawned.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Fume-shroom > Puff-shroom</color>"
+    "seedType": 1396,
+    "name": "Esparción de Seta Desesporada - Humoseta",
+   "introduce": "<size=39><color=#3D1400></color></size>",
+   "info": "<size=39>Un grupo formado a partir de Setas Desesporadas dispersos por una Humoseta.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Planta una Humoseta en lugar de Seta Desesporada y genera Setas Desesporadas a intervalos iguales más adelante (disminuyendo con cada casilla). Cuantas más Setas Desesporadas se consuman en su fusión, más aparecerán.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Desesporada + Humoseta (En Orden)</color></size>",
+   "cost": "<size=39></color></size>"
         },
         {
-            "seedType": 1397,
-            "name": "Puff-shroom Spreading: Scaredy-shroom",
-            "introduce": "<align=left><size=36><color=black></color>",
-            "info": "<size=36>A mushroom cluster formed from Puff-shrooms dispersed by a Scaredy-shroom.\n\n<color=black>Special: </color><color=#8B0000>Plants down a Scaredy-shroom in place of the Puff-shroom and spawns Puff-shrooms evenly across front, upper, and lower adjacent tiles (prioritizing front). The more Puff-shrooms consumed in fusion, the more will be spawned.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Scaredy-shroom > Puff-shroom</color>"
+    "seedType": 1397,
+    "name": "Esparción de Seta Desesporada - Seta Miédica",
+   "introduce": "<size=39><color=#3D1400></color></size>",
+   "info": "<size=39>Un grupo formado a partir de Setas Desesporadas dispersos por una Seta Miédica.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Planta una Seta Miédica en lugar de la Seta Desesporada y genera Setas Desesporadas uniformemente en las casillas adyacentes frontales, superiores e inferiores (priorizando las frontales). Cuantas más Setas Desesporadas se consuman en la fusión, más se generarán.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Desesporada + Seta Miédica</color></size>",
+   "cost": "<size=39></color></size>"
         },
         {
-            "seedType": 1398,
-            "name": "Kimchi-pult",
-            "introduce": "<align=left><size=36><color=black>Thanks to his mastery of chili sauce, his Korean restaurant is always booming. Its owner, Kimchi-pult, is just as fiery, bold, passionate, and intense. There's only one thing to remember when eating his food: once you're full, leave quickly… or he'll serve you another round.</color>",
-            "info": "<size=36>Hurls spicy-hot cabbages that explode into smaller cabbages on impact.\n\n<color=black>Damage: </color><color=#8B0000>60/3s</color>\n<color=black>Special: </color><color=#8B0000>On hit, projectile splits into smaller projectiles across a 3×3 area (1/3 damage each), all applying Enflamed debuff before dealing damage.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Jalapeno + Cabbage-pult</color>"
+    "seedType": 1398,
+    "name": "Coltapulta Ígnea",
+   "introduce": "<size=39><color=#3D1400>Gracias a su maestría con la salsa picante, su restaurante coreano siempre está lleno. Su dueño, Coltapulta Ígnea, es igual de fogosa, audaz, apasionada e intensa. Solo hay una cosa que recordar al probar su comida: una vez que estés satisfecho, vete rápido… o te servirá otra ronda.</color></size>",
+   "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\nLanza coles picantes que explotan en más coles pequeños al impacto.</color>\n<color=#FF4500>Sistema Pirogénico:</color>\n- Aplica el Efecto Pirogénico al impacto.\n- Explosión propaga el efecto a zombis cercanos.</color>\n\n<color=#3D1400>Daño:</color> <color=red>60 cada 3s\n<color=#3D1400>Especial:</color> <color=red>Al impacto, el col se divide en proyectiles más pequeños en un área de 3x3 (cada uno con 1/3 de daño)</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Jalapeño + Coltapulta</color></size>",
+   "cost": "<size=39>Costo: <color=red>225</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1399,
-            "name": "Damage-pult",
-            "introduce": "<align=left><size=36><color=black>\"I am the hunter of the night,\" he declares. His dark skin blends perfectly into darkness, but his glowing red eyes often give him away. Still, Damage-pult refuses to wear sunglasses, calling it \"the gaze of death\"… though in truth, he just can't figure out how to take his contact off.</color>",
-            "info": "<size=36>Launches high-damage cabbages that trigger explosions on Irradiated targets.\n\n<color=black>Damage: </color><color=#8B0000>1800/15s</color>\n<color=black>Special: </color><color=#8B0000>When hitting Irradiated zombies, the projectile causes a small splash explosion dealing 1/3 damage without falloff.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Doom-shroom + Cabbage-pult</color>"
+    "seedType": 1399,
+    "name": "Coltaclismo",
+   "introduce": "<size=39><color=#3D1400>\"Soy el cazador de la noche\", declara. Su piel oscura se mimetiza perfectamente con la oscuridad, pero sus brillantes ojos rojos suelen delatarlo. Aun así, Coltaclismo se niega a usar gafas de sol, llamándolas \"la mirada de la muerte\"… aunque, en realidad, simplemente no sabe cómo quitárselas.</color></size>",
+   "info": "<size=39>Parte del <color=#D033C0>Sistema Radioactivo</color>\nLanza coles de alto daño que desatan explosiones en objetivos Radioactivos.</color>\n<color=#D033C0>Sistema Radioactivo:</color></color>\n- Al atacar zombis Radioactivos, su proyectil causa una pequeña explosión por salpicadura infligiendo 1/3 de daño (la salpicadura no tiene daño reducido).</color>\n\n<color=#3D1400>Daño:</color> <color=red>1800 cada 15s\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Petaseta + Coltapulta</color></size>",
+   "cost": "<size=39>Costo: <color=red>225, 300</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1400,
-            "name": "Popcorn-pult",
-            "introduce": "<align=left><size=36><color=black>\"Our popcorn is made from 100% natural ingredients!\" Popcorn-pult proudly advertises. However, customers often question his claim, mostly because his butter seems permanently burning-hot and impossible to cool.</color>",
-            "info": "<size=36>Throws magma butter that ignite enemies and empower fire-type plants.\n\n<color=black>Damage: </color><color=#8B0000>30/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Projectiles apply Enflamed debuff before dealing damage.\n<color=black>•</color> Has 25% chance to launch Magma Butter (50 damage): applies 4s stun, triggers a full-lane Jalapeno effect with 50 damage, and grants fire plants (Jalapeno fusions) +50% attack damage for 6s (Odyssey ones +25% instead).</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Jalapeno + Kernel-pult</color>"
+    "seedType": 1400,
+    "name": "Lanzamaíz Ígneo",
+   "introduce": "<size=39><color=#3D1400>\"¡Nuestras palomitas de maíz están hechas con ingredientes 100% naturales!\", anuncia con orgullo Popcorn-pult. Sin embargo, los clientes suelen poner en duda su afirmación, sobre todo porque su mantequilla parece estar siempre hirviendo y es imposible enfriarla.</color></size>",
+   "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\nLanza mantequilla de magma que encienden zombis y mejoran a plantas de tipo-fuego.</color>\n<color=#FF4500>Sistema Pirogénico:</color>\n- Aplica el Efecto Pirogénico al impacto.\n- Explosión propaga el efecto a zombis cercanos.\n- Sus mantequillas otorgan a plantas dentro del Sistema Pirogénico un bono de daño del +50% (+25% para plantas Odisea).</color>\n\n<color=#3D1400>Daño:</color> <color=red>30 cada 3s (Maíz), 50 (Mantequilla)\n<color=#3D1400>Especial:</color> <color=red>Probabilidad de 25% de lanzar mantequilla, la cual inmoviliza por 4 segundos y activa una explosión de Jalapeño que también inflige 50 de daño.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Jalapeño + Lanzamaíz</color></size>",
+   "cost": "<size=39>Costo: <color=red>225</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1401,
-            "name": "Ice Mine",
-            "introduce": "<align=left><size=36><color=black>\"I am the true star of the battlefield,\" Ice Mine thinks. \"And a star always makes his entrance at the very last moment.\" Before the grand review, he even buries himself in cool soil to rest, but not without making sure his perfect hairstyle stays untouched above ground.</color>",
-            "info": "<size=36>Releases condensed icy gas that triggers chain ice explosions from even the smallest contact.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>On arming and detonation, triggers an ice blast that freezes zombies in a 3×3 area for 4s, dealing 1/3 damage, and triggers secondary smaller ice blasts in adjacent tiles containing zombies.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Potato Mine + Ice-shroom</color>"
+    "seedType": 1401,
+    "name": "Enfriapum",
+   "introduce": "<size=39><color=#3D1400>\"Soy la verdadera estrella del campo de batalla\", piensa Enfriapum. \"Y una estrella siempre hace su entrada en el último momento.\" Antes del gran desfile, incluso se entierra en tierra fresca para descansar, pero no sin asegurarse de que su peinado perfecto permanezca intacto sobre la superficie.</color></size>",
+   "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nLibera gas condensado helado que liberan explosiones de hielo en cadena, hasta del contacto más mínimo.</color>\n<color=#0077b6>Sistema Criogénico:</color>\n</color>- Al armarse y detonarse, provoca una explosión de hielo que congela a los zombis en un área de 3x3 durante 4 segundos, causando 1/3 de daño, y provocando explosiones de hielo secundarias más pequeñas en las casillas adyacentes que contienen zombis.</color>\n\n<color=#3D1400>Daño: </color><color=red>1800</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Patatapum + Seta Congelada</color></size>",
+   "cost": "<size=39>Costo: <color=red>100, 175</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         }
     ]
 }
