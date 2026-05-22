@@ -2368,15 +2368,15 @@
         },
         {
             "seedType": 1162,
-            "name": "Explode-o-tato Mine",
-            "introduce": "<align=left><size=36><color=black>Explode-o-tato Mine is a top chef, and his \"hash cherries\" and \"potato jam\" are highly praised in the plant world. If he runs out of ingredients, he will cheerfully say: \"I'll go buy some.\"</color>",
+            "name": "Cluster Mine",
+            "introduce": "<align=left><size=36><color=black>Cluster Mine is a top chef, and his \"hash cherries\" and \"potato jam\" are highly praised in the plant world. If he runs out of ingredients, he will cheerfully say: \"I'll go buy some.\"</color>",
             "info": "<size=36>Splits into 8 Potato Mines in surrounding tiles.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Explodes like a Potato Mine and spawns Potato Mines that only need 5s to arm themselves in a 3×3 range upon defeat.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Potato Mine + Cherry Bomb</color>"
         },
         {
             "seedType": 1163,
             "name": "Chip Mine",
-            "introduce": "<align=left><size=36><color=black>Chip Mine is a capable assistant to Explode-o-tato Mine, but most of her dishes are given low ratings by customers. \"What's going on—\" Chip Mine feels really guilty but doesn't know why. The truth is, she is not sensitive to spicy flavors and always adds too much chili.</color>",
+            "introduce": "<align=left><size=36><color=black>Chip Mine is a capable assistant to Cluster Mine, but most of her dishes are given low ratings by customers. \"What's going on—\" Chip Mine feels really guilty but doesn't know why. The truth is, she is not sensitive to spicy flavors and always adds too much chili.</color>",
             "info": "<size=36>Splits into 7 Potato Mines in her lane. \n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Explodes like a Potato Mine and spawns up to 7 Potato Mines that only need 5s to arm themselves in her lane upon defeat.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Potato Mine + Jalapeno</color>"
         },
