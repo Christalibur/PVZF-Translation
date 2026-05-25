@@ -3658,7 +3658,7 @@
             "seedType": 1346,
             "name": "Blubber-shroom",
             "introduce": "<align=left><size=36><color=black>\"Come on, have a taste of my fresh butter!\" Blubber-shroom says proudly, showing off his new recipe. \"If you don't like it, just shake your head,\" he adds. Everyone seems to be diggin' it, or at least they are completely motionless.</color>",
-            "info": "<size=36>Sprays butter from the top of its cap onto nearby zombies.\n\n<color=black>Attack Range: </color><color=#8B0000>An area within a 2.2-tile radius</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Does not actively target zombies. When damaged or manually tapped and if there are zombies within attack range, it performs an attack.\n<color=black>•</color> When attacking, loses 30 max HP (and current HP), throwing one pat of Butter at every zombie in range, dealing 40 damage and immobilizing them for 4s</color>",
+            "info": "<size=36>Sprays butter from the top of its cap onto nearby zombies.\n\n<color=black>Attack Range: </color><color=#8B0000>An area within a 2.2-tile radius</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Does not actively target zombies. When damaged or manually tapped and if there are zombies within attack range, it performs an attack.\n<color=black>•</color> When attacking, loses 30 max HP (and current HP), throwing one pat of Butter at every zombie in range, dealing 40 damage and immobilizing them for 4s.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Fume-shroom + Kernel-pult</color>"
         },
         {
