@@ -4059,6 +4059,13 @@
             "introduce": "<align=left><size=36><color=black>\" Le brouillard est trop épais ! Je n’arrive plus à respirer ! \" s’exclame Champi-saguaro en étirant son corps pour faire dépasser ses pores respiratoires au-dessus du brouillard. \" Ah, beaucoup mieux… même si je ne peux pas monter plus haut, sinon l’air finira vite par manquer d’oxygène ! \"</color>",
             "info": "<size=36>Tire de lourdes fumées pour frapper les ennemis volant à basse altitude. Peut s’étendre pour se concentrer sur les cibles aériennes.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s (Perforant)</color>\n<color=black>Spécial : </color><color=#8B0000>Cliquez pour alterner entre différents modes d’attaque :\n<color=black>-</color> Basse altitude : touche les ennemis terrestres et aériens ;\n<color=black>-</color> Haute altitude : dégâts ×4, anti-aérien uniquement.</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Cactus</color>"
+        },
+        {
+            "seedType": 220,
+            "name": "Vase de Recyclage Doré",
+            "introduce": "<color=#3D1400>Vase de Recyclage Doré est la plus grande plateforme de troc parmi les plantes. En tant que fondateur, le Vase de Recyclage Doré aide les plantes à échanger leurs objets d’occasion inutilisés, tout en offrant à celles en quête d’un voyage imprévisible une opportunité — et un moyen — d’y parvenir.</color>",
+            "info": "Recycle les plantes indésirables pour les transformer en surprises.\n\n<color=#3D1400>Conditions de déblocage : </color><color=red>Terminer Vasebreaker : The Vase Less Travelled by, De-vase-tating! et Potluck</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lorsque la charge est inférieure à 3, vous pouvez utiliser le Gant pour y placer des plantes afin qu’il gagne de la charge. Les plantes de base/fusions simples/fusions avancées accordent respectivement 1/2/3 charges.\n<color=black>•</color> Touchez le vase pour le briser. Fait tomber un paquet de graines selon la charge stockée :\n-1 charge : plante de base\n-2 charges : fusion simple\n-3 charges ou plus : fusion avancée\n\n<color=black>•</color> Si une plante Odyssée y a déjà été stockée, il donnera toujours une plante Odyssée.</color>",
+            "cost": "Coût : <color=red>200</color>\nRecharge : <color=red>30s</color>"
         }
     ]
 }
