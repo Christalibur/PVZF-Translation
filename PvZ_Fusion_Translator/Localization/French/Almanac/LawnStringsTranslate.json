@@ -4066,6 +4066,41 @@
             "introduce": "<color=#3D1400>Vase de Recyclage Doré est la plus grande plateforme de troc parmi les plantes. En tant que fondateur, le Vase de Recyclage Doré aide les plantes à échanger leurs objets d’occasion inutilisés, tout en offrant à celles en quête d’un voyage imprévisible une opportunité — et un moyen — d’y parvenir.</color>",
             "info": "Recycle les plantes indésirables pour les transformer en surprises.\n\n<color=#3D1400>Conditions de déblocage : </color><color=red>Terminer Vasebreaker : The Vase Less Travelled by, De-vase-tating! et Potluck</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lorsque la charge est inférieure à 3, vous pouvez utiliser le Gant pour y placer des plantes afin qu’il gagne de la charge. Les plantes de base/fusions simples/fusions avancées accordent respectivement 1/2/3 charges.\n<color=black>•</color> Touchez le vase pour le briser. Fait tomber un paquet de graines selon la charge stockée :\n-1 charge : plante de base\n-2 charges : fusion simple\n-3 charges ou plus : fusion avancée\n\n<color=black>•</color> Si une plante Odyssée y a déjà été stockée, il donnera toujours une plante Odyssée.</color>",
             "cost": "Coût : <color=red>200</color>\nRecharge : <color=red>30s</color>"
+        },
+        {
+            "seedType": 219,
+            "name": "Flèche de Signalisation",
+            "introduce": "<align=left><size=36><color=black>Les Flèches de Signalisation sont des composants essentiels des systèmes de convoyeurs. Grâce à elles, les paquets de graines continuent de circuler régulièrement de l’arrière vers les lignes de front. Même retirées des convoyeurs, elles conservent leur capacité à diriger les déplacements.</color>",
+            "info": "<size=36>Zombies, veuillez suivre les indications. Ne poussez pas ; avancez de manière ordonnée.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Ne peut pas être déplacée avec le Gant.\n<color=black>•</color> Cliquez pour sélectionner une autre Flèche de Signalisation dans la même ligne ou colonne afin de la définir comme destination.\n<color=black>•</color> Les zombies qui la touchent seront redirigés vers la destination définie.\n<color=black>•</color> Utilisée dans Zombie Sorter & Super Level Editor pour créer des niveaux TD.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 221,
+            "name": "Animation de Fusion",
+            "introduce": "<color=#3D1400></color>",
+            "info": "Ce n’est pas une plante. Il s’agit d’une animation montrant des plantes de base fusionnant pour créer une plante Odyssée. Vous devez avoir l’option \"Odyssée simplifiée\" activée.",
+            "cost": ""
+        },
+        {
+            "seedType": 40,
+            "name": "Lichen Givré",
+            "introduce": "<align=left><size=36><color=black>Pour survivre dans la toundra gelée, Lichen Givré a développé un doux manteau de duvet blanc. Mais cela lui attire plus d’ennuis qu’autre chose : il perd constamment ses poils, et les autres plantes ne peuvent s’empêcher de le caresser comme si il était un pissenlit sauvage.</color>",
+            "info": "<size=36>Explose en un anneau de boules de neige, refroidissant plantes et zombies à proximité.\n\n<color=black>Dégâts : </color><color=#8B0000>600×7</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les boules de neige tirées vers la gauche infligent 1 dégât aux plantes et gèlent les plantes dans une zone de 3×3.\n<color=black>•</color> Toutes les autres boules de neige infligent 600 dégâts aux zombies et appliquent Gel Profond pendant 1 seconde.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>100</color>\nRecharge : <color=#8B0000>30s</color>"
+        },
+        {
+            "seedType": 1396,
+            "name": "Propagation de Champi-gnon : Champi-fumé",
+            "introduce": "<align=left><size=36><color=black></color>",
+            "info": "<size=36>Un amas de champignons formé à partir de Champi-gnon dispersés par un Champi-fumé.\n\n<color=black>Spécial : </color><color=#8B0000>Plante un Champi-fumé à la place du Champi-gnon et fait apparaître des Champi-gnon à intervalles réguliers devant lui (avec un nombre décroissant selon la distance). Plus le nombre de Champi-gnon consommés lors de la fusion est élevé, plus il en fera apparaître.</color>",
+            "cost": "\n<size=36>Recette de Fusion : <color=#8B0000>Champi-fumé + Champi-gnon</color>"
+        },
+        {
+            "seedType": 1397,
+            "name": "Propagation de Champi-gnon : Champi-peureux",
+            "introduce": "<align=left><size=36><color=black></color>",
+            "info": "<size=36>Un amas de champignons formé à partir de Champi-gnon dispersés par un Champi-peureux.\n\n<color=black>Spécial : </color><color=#8B0000>Plante un Champi-peureux à la place du Champi-gnon et fait apparaître des Champi-gnon de manière équilibrée sur les cases avant, supérieure et inférieure adjacentes (en privilégiant la case avant). Plus le nombre de Champi-gnon consommés lors de la fusion est élevé, plus il en fera apparaître.</color>",
+            "cost": "\n<size=36>Recette de Fusion : <color=#8B0000>Champi-peureux + Champi-gnon</color>"
         }
     ]
 }
