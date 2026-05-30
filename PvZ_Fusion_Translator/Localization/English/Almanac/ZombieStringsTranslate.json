@@ -1132,19 +1132,19 @@
             "theZombieType": 321,
             "name": "Plated Michael Zomboni",
             "introduce": "<align=left><size=36><color=black>Charge, charge again, crush everything! The Zomboni plowed through the field with unstoppable momentum, until it met the pond in the middle of the lawn.</color>",
-            "info": "<size=36>Disco zombie driving a reinforced vehicle.\n\n<color=black>Toughness: </color><color=#4B0082>6000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 1 Evolved Zombie.\n<color=black>•</color> Crushes plants. Has an inherit +1 DR value.\n<color=black>•</color> Spawns a standard Michael Zombie upon death.</color>"
+            "info": "<size=36>Disco zombie driving a reinforced vehicle.\n\n<color=black>Toughness: </color><color=#4B0082>6000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 1 Evolved Zombie.\n<color=black>•</color> Crushes plants. Has an inherit +100 DR value.\n<color=black>•</color> Spawns a standard Michael Zombie upon death.</color>"
         },
         {
             "theZombieType": 322,
             "name": "Armored Michael Zomboni",
             "introduce": "<align=left><size=36><color=black>\"We've added more layers to the front armor!\" The newly refurbished vehicle is now the pride of Michael Zombie, though he regrets that the gaps between the armor layers still aren't wide enough to stuff in more backup dancers.</color>",
-            "info": "<size=36>Michael Zombie's vehicle now includes an extra layer of light armor.\n\n<color=black>Toughness: </color><color=#4B0082>12000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 2 Evolved Zombie.\n<color=black>•</color> Crushes plants. Has an inherit +2 DR value.\n<color=black>•</color> Spawns a Plated Michael Zomboni upon death.</color>"
+            "info": "<size=36>Michael Zombie's vehicle now includes an extra layer of light armor.\n\n<color=black>Toughness: </color><color=#4B0082>12000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 2 Evolved Zombie.\n<color=black>•</color> Crushes plants. Has an inherit +200 DR value.\n<color=black>•</color> Spawns a Plated Michael Zomboni upon death.</color>"
         },
         {
             "theZombieType": 323,
             "name": "Colossus Michael Zomboni",
             "introduce": "<align=left><size=36><color=black>This vehicle's extremely thick armor has earned it the nickname \"Battleship on Land\". Lately, Michael Zombie has come up with yet another bold new design: swap the base for treads, install a multi-layer turret, and mount a long-barreled cannon. He believes this will be a truly original invention.</color>",
-            "info": "<size=36>Michael Zombie's vehicle now includes two layers of heavy steel armor.\n\n<color=black>Toughness: </color><color=#4B0082>24000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Crushes plants. Has an inherit +3 DR value.\n<color=black>•</color> Spawns a Armored Michael Zomboni upon death.</color>"
+            "info": "<size=36>Michael Zombie's vehicle now includes two layers of heavy steel armor.\n\n<color=black>Toughness: </color><color=#4B0082>24000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Crushes plants. Has an inherit +300 DR value.\n<color=black>•</color> Spawns a Armored Michael Zomboni upon death.</color>"
         },
         {
             "theZombieType": 324,

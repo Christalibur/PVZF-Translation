@@ -42,6 +42,7 @@ The Multi-Language version supports the following languages: **English**, **Chin
 	Want to add your language here? Go to our Discord for more info!
 
 ## Installation Instructions (Multi-Language Version)
+> [**Video Guide**](https://youtu.be/90QiFtavLpY)
 1. Download from the link that says `Multi-Language` and `PC`.
 2. Extract the archive to `C:\Games` or `D:\Games` or **anywhere** as long as it's not on the following folders:
 ```
@@ -59,7 +60,7 @@ The Multi-Language version supports the following languages: **English**, **Chin
 ### The Online English Almanac
 ***
 The Online English Almanac made by CarrotD1scrd can be found [here](https://carroti4ch.itch.io/almanac). Please be informed that it is updated slowly and what you see in here may not be *as accurate* or *up-to-date* as what's in-game.
-[![The Online English Almanac](https://i.imgur.com/PRcWII0.png)](https://carroti4ch.itch.io/almanac)
+[![The Online English Almanac](https://i.imgur.com/K0burlh.jpeg)](https://carroti4ch.itch.io/almanac)
 
 ## Credits
 ***
