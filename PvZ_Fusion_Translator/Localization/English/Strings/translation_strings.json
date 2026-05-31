@@ -595,6 +595,7 @@
   "错误：尝试生成不存在的植物！": "Error: Attempting to spawn a plant that doesn't exist.",
   "错误：尝试生成不存在的植物！用豌豆代替": "Error: Attempting to spawn a plant that doesn't exist. Use Peashooters instead.",
   "错误：尝试生成不存在的种植预览！": "Error: Trying to generate a planting preview that doesn't exist.",
+  "错误：尝试在地图外面放僵尸": "Error: Attempting to spawn Zombies out of bounds.",
   "已解锁全部植物": "All Plants Unlocked",
   "数据异常": "Data Anomalies",
   "模式": "Mode",
