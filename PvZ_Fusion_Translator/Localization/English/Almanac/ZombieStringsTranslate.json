@@ -495,13 +495,13 @@
         {
           "theZombieType": 82,
           "name": "Buckethead Newspaper Zombie",
-          "introduce": "<align=left><size=36><color=black>What do lawn mowers, popcorn machines, and Buckethead Newspaper Zombies have in common? They're all tough as still, painted red, very old — and they all creak when they move.</color>",
+          "introduce": "<align=left><size=36><color=black>What do lawn mowers, popcorn machines, and Buckethead Newspaper Zombies have in common? They're all tough as steel, painted red, very old — and they all creak when they move.</color>",
           "info": "<size=36>Firmly believes in the protective power of metal, and shares his \"expertise\" with others through his magazine.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1) + 1100 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>On spawn, grants 50 DR Value to himself and all other Newspaper Zombies in the same lane. After his magazine is destroyed, this bonus increases to 100.</color>\n<color=black>Weakness: </color><color=#4B0082>Magnet-shroom</color>"
         },
         {
           "theZombieType": 83,
           "name": "Zombie Penguin",
-          "introduce": "<align=left><size=36><color=black>They're actually real penguins who achieved great feats in the Antarctic, so Doctor Zomboss rewarded them with zombie-style contact lenses and the title of \"zombie.\" Honestly, if they understood what that meant, they'd probably refuse.</color>",
+          "introduce": "<align=left><size=36><color=black>They're actually real penguins who achieved great feats in the Antarctic, so Doctor Zomboss rewarded them with zombie-style contact lenses and the title of \"zombie\". Honestly, if they understood what that meant, they'd probably refuse.</color>",
           "info": "<size=36>Cute on the outside, but dangerous in their preferred environment.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill. Hops forward, dealing 100 damage twice to plants upon landing. On ice trails, slides forward and crushes plants. During blizzards, can start sliding even without ice.</color>\n<color=black>Weakness: </color><color=#4B0082>Bamblock</color>"
         },
         {
@@ -796,7 +796,7 @@
             "theZombieType": 213,
             "name": "Abyssal Imp",
             "introduce": "<align=left><size=36><color=black>Blades whirling, wings flaring, Abyssal Imp delivered a death-defying stunt straight out of Hollytomb's next big hit, Jurassic Zombies. Critics called it \"a masterpiece of aerial choreography.\" The truth? He had been flung out by mistake and was just rolling with it. Literally.</color>",
-            "info": "<size=36>Abyssal Imp can easily infiltrate your defense.\n\n<color=black>Damage: </color><color=#4B0082>200</color>\n<color=black>Toughness: </color><color=#4B0082>1500</color>\n<color=black>Traits: </color><color=#4B0082>Charges forward 2.7 tiles on appearing, cannot be targeted during the charge but can be flung away by Utimate moves from Umbrellas.</color>"
+            "info": "<size=36>Abyssal Imp can easily infiltrate your defense.\n\n<color=black>Damage: </color><color=#4B0082>200</color>\n<color=black>Toughness: </color><color=#4B0082>1500</color>\n<color=black>Traits: </color><color=#4B0082>Charges forward 2.7 tiles on appearing, cannot be targeted during the charge but can be flung away by Ultimate moves from Umbrellas.</color>"
         },
         {
             "theZombieType": 214,
