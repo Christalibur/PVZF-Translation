@@ -263,7 +263,7 @@
             "seedType": 37,
             "name": "Snow Lotus",
             "introduce": "<align=left><size=36><color=black>Snow Lotus never planned to become a healer—but when your mere presence makes nearby plants feel better, word spreads fast. Now she spends her days reluctantly running a clinic, insisting, “I’m just cold, not qualified.” Patients don’t seem to care.</color>",
-            "info": "<size=36>Cold-loving healer that gains energy in the cold to heal nearby plants.\n\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Gains 1 ice charge every 10s or when hit by a snowball or snow trident.\n<color=black>•</color> Consumes 5 charges to awaken and heal all plants in a 3×3 area for 50 HP every 3s.</color>\n<color=black>Special: </color><color=#8B0000>Immune to freeze and glaciation.</color>",
+            "info": "<size=36>Cold-loving healer that gains energy in the cold to heal nearby plants.\n\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Gains 1 ice charge every 10s or when hit by a snowball or snow trident. Gain 60 charges when affected by a blizzard.\n<color=black>•</color> Consumes 5 charges to awaken and heal all plants in a 3×3 area for 50 HP every 3s.</color>\n<color=black>Special: </color><color=#8B0000>Immune to freeze and glaciation.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>50</color>\nRecharge: <color=#8B0000>30s</color>"
         },
         {
@@ -284,14 +284,14 @@
             "seedType": 40,
             "name": "Hoarfrost Lichen",
             "introduce": "<align=left><size=36><color=black>To survive the frozen tundra, Hoarfrost Lichen evolved a coat of soft white fluff. But it's more trouble than it's worth - she sheds constantly, and other plants just can't resist patting her, like she's some wild dandelion.</color>",
-            "info": "<size=36>Bursts into a ring of snowballs, chilling both plants and zombies nearby.\n\n<color=black>Damage: </color><color=#8B0000>600×7</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Snowballs fired to the left deal 1 damage to plants and freeze plants in a 3×3 area.\n<color=black>•</color> All other snowballs deal 600 damage to zombies and apply Deep Freeze for 1 second.</color>",
+            "info": "<size=36>Bursts into a ring of snowballs, chilling both plants and zombies nearby.\n\n<color=black>Damage: </color><color=#8B0000>600×7 (Black Snowballs)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> White snowballs freeze plants in a 3×3 area.\n<color=black>•</color> Black snowballs deal 600 damage to zombies and inflict Deep Freeze for 1 second and apply 20 Cryo points.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>100</color>\nRecharge: <color=#8B0000>30s</color>"
         },
         {
             "seedType": 219,
             "name": "Signpost Arrow",
             "introduce": "<align=left><size=36><color=black>Signpost Arrows are essential components of conveyor systems. Thanks to them, seed packets keep flowing steadily from the back lines to the front. Even when removed from conveyors, they still retain their ability to direct movement.</color>",
-            "info": "<size=36>Zombies, please follow the directions. No pushing; move in an orderly fashion.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Cannot be moved by the Glove.\n<color=black>•</color> Click to select another Signpost Arrow in the same lane or column and set it as the destination.\n<color=black>•</color> Zombies that touch it will be redirected toward the set destination.\n<color=black>•</color> Used in Zombie Sorter & Super Level Editor for making TD levels</color>",
+            "info": "<size=36>Zombies, please follow the directions. No pushing; move in an orderly fashion.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Cannot be moved by the Glove.\n<color=black>•</color> Click to select another Signpost Arrow in the same lane or column and set it as the destination.\n<color=black>•</color> Zombies that touch it will be redirected toward the set destination.\n<color=black>•</color> Used in Zombie Sorter & Super Level Editor for making TD levels.\n<color=black>•</color> Outside of these levels, transforms into an Imitator seed packet after being planted.</color>",
             "cost": ""
         },
         {
