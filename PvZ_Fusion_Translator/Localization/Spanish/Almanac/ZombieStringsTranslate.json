@@ -196,13 +196,13 @@
             "theZombieType": 32,
             "name": "Pogozombi",
             "introduce": "<size=39><color=#3D1400>Al Pogozombi le encanta rebotar. Él cree que el momento de saltar al aire es lo más cercano a volar. Pero, ¿alguien le habrá advertido en vida que no use la pértiga en los tejados?</color></size>",
-            "info": "<size=39>El Pogozombi puede saltar tus defensas.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>720</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Salta sobre tus plantas; puede perder su pogo tratando de saltar una Nuez Alta</color></size>"
+            "info": "<size=39>El Pogozombi puede saltar tus defensas.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>720</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Salta sobre tus plantas; puede perder su pogo tratando de saltar una Nuez Alta.</color></size>"
         },
         {
             "theZombieType": 33,
             "name": "Zombi Escalera",
             "introduce": "<size=39><color=#3D1400>El Zombi Escalador creyó que con una escalera y un disfraz de trabajador podría entrar en cualquier lugar. Compró una escalera, se puso el uniforme y se preparó para atravesar las defensas de las plantas. \"¿Nadie le ha dicho que su piel de zombi es obvia?\" comentó el Lanzaguisantes.</color></size>",
-            "info": "<size=39>El Zombi Escalera salta sobre tus obstáculos con una escalera.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>720 + 720 (Tipo 2)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>La escalera permite a los zombis pasar por encima de las plantas</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Técnico en Trabajos de Altura Zombie</color></size>"
+            "info": "<size=39>El Zombi Escalera salta sobre tus obstáculos con una escalera.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>720 + 720 (Tipo 2)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>La escalera permite a los zombis pasar por encima de las plantas.</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Técnico en Trabajos de Altura Zombie</color></size>"
         },
         {
             "theZombieType": 34,
@@ -244,7 +244,7 @@
             "theZombieType": 40,
             "name": "Nuez Zombot",
             "introduce": "<size=39><color=#3D1400>\"¿¡Nuez Zombot!? ¿¡Nos has traicionado!?\" Preguntan unas nueces temerosas. Nuez Zombot les responde con no responder y trata de aplastarlos.",
-            "info": "<size=39>Una bola de boliche rodante, pero del lado de los zombis.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>1350</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Cambia de fila al impactar con plantas, aumenta su velocidad en pendientes y disminuye su velocidad tras cambiar de fila.\n- Aplasta plantas con dureza igual o inferior a 1000 e inflige 1000 de daño a las plantas más resistentes.\n- Genera 5 Zombiditos al morir. Tiene la misma probabilidad de soltar una bola de hielo, una bola de fuego o Piezas Robóticas.\n- Las bolas pueden aplastar plantas, bloquear hasta 30 proyectiles y duran 30 segundos. Se puede contrarrestar con fusiones de plantas basadas en hielo o fuego.</color></size>"
+            "info": "<size=39>Una bola de boliche rodante, pero del lado de los zombis.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>1350</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Cambia de fila al impactar con plantas, aumenta su velocidad en pendientes y disminuye su velocidad tras cambiar de fila.\n- Aplasta plantas con dureza igual o inferior a 1000 e inflige 1000 de daño a las plantas más resistentes.\n- Genera 5 Zombiditos al morir. Tiene la misma probabilidad de soltar una bola de hielo (Nuez Zombot tendrá ojos azules), una bola de fuego (Nuez Zombot tendrá ojos rojos) o Piezas Robóticas (Nuez Zombot tendrá ojos amarillos).\n- Las bolas pueden aplastar plantas, bloquear hasta 30 proyectiles y duran 30 segundos. Se puede contrarrestar con fusiones de plantas basadas en hielo o fuego respectivamente.</color></size>"
         },
         {
             "theZombieType": 41,
@@ -262,7 +262,7 @@
             "theZombieType": 43,
             "name": "Zombistein Medievo",
             "introduce": "<size=39><color=#3D1400>Zombistein Medievo es un gran fan de una apariencia llamada 'Caballero' de su juego favorito. Así que gastó una fortuna ordenando un conjunto de armadura medieval hecho a medida solo para él. Sin embargo, cuando intentó quitársela, descubrió que estaba atascada para siempre... Y así fue como terminó con una apariencia permanente de 'Cadavalier'.</color>",
-            "info": "<size=39>¡Genera Zombiditos cada vez que golpea con su maza!\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>8000 + 24000 (Tipo 1)</color>\n<color=#3D1400>Características: </color><color=#4B0082>\n- Se mueve a la mitad de la velocidad de los Zombisteins normales.\n- Recibe un máximo de 5000 de daño por golpe.\n- Es inmune a la hipnosis, la devoración y el retroceso; otros efectos solo duran la mitad.\n- Lanza una Nuez Zombot cuando su durabilidad está a la mitad, generando 5 Zombiditos al romperse.\n- Genera de 1 a 3 Zombiditos cada vez que golpea el suelo con su maza.</color>"
+            "info": "<size=39>¡Genera Zombiditos cada vez que golpea con su maza!\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>8000 + 24000 (Tipo 1)</color>\n<color=#3D1400>Características: </color><color=#4B0082>\n- Se mueve a la mitad de la velocidad de los Zombisteins normales.\n- Recibe un máximo de 5000 de daño por golpe.\n- Es inmune a la hipnosis, la devoración y el retroceso; otros efectos solo duran la mitad.\n- Lanza una Nuez Zombot cuando su durabilidad está a la mitad, generando 5 Zombiditos al romperse.\n- Genera de 1 a 3 Zombiditos cada vez que golpea el suelo con su maza.\n- Siempre aparece en la última oleada de niveles que tengan 4 banderas o más en Dificultad 5 en tu primera partida.</color>"
         },
         {
             "theZombieType": 44,
@@ -292,7 +292,7 @@
             "theZombieType": 48,
             "name": "Zombi Nian",
             "introduce": "<size=39><color=#3D1400>El Zombi Nian es una bestia mítica que despierta durante las festividades. Con su armadura dorada y su mirada feroz, representa un desafío monumental para cualquier jardinero desprevenido. Sin embargo, le teme a los cuetes, como los perritos.</color>",
-            "info": "<size=39>Los Zombis Nian tienen armaduras fuertes.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>8888 + 8888 (Tipo 1)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Es vulnerable a Ramo de Cerezas (Anteriormente llamado Bamboom).</color>"
+            "info": "<size=39>Los Zombis Nian tienen armaduras fuertes.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>8888 + 8888 (Tipo 1)</color>\n<color=#3D1400>Debilidad:</color> <color=#4B0082>Bamboom</color>"
         },
         {
             "theZombieType": 49,
@@ -316,7 +316,7 @@
             "theZombieType": 52,
             "name": "Vegezombi Cronoguisante",
             "introduce": "<size=39><color=#3D1400>¿Qué es exactamente la puerta que sostiene el Zombi Cronoguisante? Ningún zombi lo sabe, ni quiere saberlo. Pero cuando ven a sus viejos compañeros salir uno tras otro de esa puerta, están más que dispuestos a acercarse y preguntar si por ahí hay cerebros frescos.</color>",
-            "info": "<size=39>Tiene un portal que trasciende el tiempo y el espacio; es una fuerza más allá del mundo.\n<color=#3D1400>Daño: </color><color=#4B0082>20 cada 1,5s</color>\n<color=#3D1400>Durabilidad: </color><color=#4B0082>270 + 200 (Tipo 2)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Dispara un cronoguisante cada 1.5 segundos. Cada 6 segundos invoca aleatoriamente desde su portal a un zombi normal, caracono, caracubo o portero. Al morir, deja fragmentos espacio-temporales.</color>"
+            "info": "<size=39>Tiene un portal que trasciende el tiempo y el espacio; es una fuerza más allá del mundo.\n<color=#3D1400>Daño: </color><color=#4B0082>20 cada 1,5s</color>\n<color=#3D1400>Durabilidad: </color><color=#4B0082>270 + 200 (Tipo 2)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Dispara un cronoguisante cada 1,5 segundos. Cada 6 segundos invoca aleatoriamente desde su portal a un zombi normal, caracono, caracubo o portero. Al morir, deja fragmentos espacio-temporales.</color>"
         },
         {
             "theZombieType": 53,
@@ -466,13 +466,13 @@
      "theZombieType": 77,
      "name": "Zombi Atleta Olímpico",
      "introduce": "<size=39><color=#3D1400>La poderosa fuerza explosiva es el secreto de la victoria de Zombi Atleta Olimpico. Mientras más rápido corre durante su carrera, podrá saltar más lejos al despegar, aunque parece haber olvidado que el salto con pértiga consiste en saltar alto, no lejos...</color>",
-     "info": "<size=39>Destaca en saltos de larga distancia y, con suficiente carrera, puede superar varios obstáculos sin problemas.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>1350</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Comienza a acelerar al entrar al campo\n- Al entrar en contacto la primera planta que se encuentra, salta 3 casillas hacia adelante y luego pierde su pértiga\n- Si corre durante más de 8 segundos, el salto se vuelve no-bloqueable para las plantas altas.</color>"
+     "info": "<size=39>Destaca en saltos de larga distancia y, con suficiente carrera, puede superar varios obstáculos sin problemas.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>1350</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Comienza a acelerar al entrar al campo.\n- Al entrar en contacto la primera planta que se encuentra, salta 3 casillas hacia adelante y luego pierde su pértiga.\n- Si corre durante más de 8 segundos, el salto se vuelve no-bloqueable para las plantas altas.</color>"
    },
    {
      "theZombieType": 78,
      "name": "Deportista Cambiaformas",
      "introduce": "<size=39><color=#3D1400>El Deportista Cambiaformas nunca ha perdido un solo partido en toda su carrera, un logro con el que la mayoría de los Zombis Deportistas sólo pueden soñar. Su secreto para la victoria es sorprendentemente simple: cada vez que el oponente está a punto de ganar, simplemente se pone su uniforme.</color>",
-     "info": "<size=39>Cambia a uniformes de diferentes colores según la intensidad del daño recibido.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>270 + 1400 (Tipo 1)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Después de 15 segundos en el campo, si todavía lleva puesto su casco de fútbol, ​​se convierte en un Zombi Deportista normal\n- De lo contrario, se convierte en un Deportista Escurridizo que ignora a las planta. Si es derrotado dentro de los 3 segundos posteriores a su aparición, se convierte en un \"Vegezombi\" Lethal-Star T1 con alta durabilidad cuyo casco no se puede quitar con Magnetosetas.</color>"
+     "info": "<size=39>Cambia a uniformes de diferentes colores según la intensidad del daño recibido.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>270 + 1400 (Tipo 1)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Después de 15 segundos en el campo, si todavía lleva puesto su casco de fútbol, ​​se convierte en un Zombi Deportista normal.\n- De lo contrario, se convierte en un Deportista Escurridizo que ignora a las planta. Si es derrotado dentro de los 3 segundos posteriores a su aparición, se convierte en un \"Vegezombi\" Lethal-Star T1 con alta durabilidad cuyo casco no se puede quitar con Magnetosetas.</color>"
    },
    {
      "theZombieType": 79,
