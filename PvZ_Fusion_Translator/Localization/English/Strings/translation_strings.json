@@ -2434,6 +2434,7 @@
   "雪皇": "Boss Battle (Snow)",
   "平顶山泳池": "Mesa River ",
   "未选中音符": "(No Note Selected)",
+  "请先完成当前Hold音符！": "Please complete the current Hold Note first!",
   "• 从文件加载：\n如果想要在构建完成的关卡中使用这个BGM，则需要将文件命名为歌名（右上角设置），然后放在存档文件夹中，且音乐类型必须设置为【预设BGM】\n\n• 点击【预设BGM】可以切换游戏内音乐": "Loading from file:\nIf you want to use this BGM in a completed level, rename the file to match the Song Name (set in the top-right), place it in the save folder, and set Music Type to [Preset BGM].\n\nClick [Preset BGM] to switch in-game music.",
   "操作指南:\n• 按键 1/2/3/4 或小键盘：记录音符\n• 空格键：暂停/继续\n• ← 回到上一拍\n• → 播放一小拍\n• 拖动时间轴上的音符：调整位置\n• 点击时间轴空白处：跳转播放位置\n• Delete/Backspace删除选中的节点": "Instructions:\n• Record notes with Keys 1/2/3/4 or the Numpad\n• Press Space to pause/resume\n• ← Go to previous beat\n• → Play one beat\n• Drag notes on the timeline to adjust their position\n• Click empty timeline space to jump there\n• Press Delete/Backspace to delete selected nodes",
   "-------Strings - 3.6 Level Editor-Code": "Strings - 3.6 Level Editor-Code-------",
