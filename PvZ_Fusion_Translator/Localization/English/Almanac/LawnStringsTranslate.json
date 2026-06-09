@@ -298,14 +298,14 @@
             "seedType": 218,
             "name": "PLANTNAME_218",
             "introduce": "<color=#3D1400>\"If one were to go travelling, where would be a good place to go?\"\nPLANTNAME_218 often pondered this question, although he himself laid lazily in place. He was rather delighted to help dutiful bullets fly off in all directions to seek out unique scenery themselves.",
-            "info": "Deflects plant projectiles with a resilient body.\n\n<color=#3D1400>Special:\n</color><color=#8B0000><color=black>•</color> Alternates the direction of bullets that come in contact with itself (left -> right, right -> left).\n<color=black>•</color> A maximum of 29 bullets can be alternated every 1.5 seconds.</color>",
+            "info": "Deflects plant projectiles with a resilient body.\n\n<color=#3D1400>Special:\n</color><color=#8B0000><color=black>•</color> Alternates the direction of projectiles that come in contact with itself (left -> right, right -> left).\n<color=black>•</color> A maximum of 29 projectiles can be alternated in each 1.5s.</color>",
             "cost": ""
         },
         {
             "seedType": 219,
             "name": "Signpost Arrow",
             "introduce": "<align=left><size=36><color=black>Signpost Arrows are essential components of conveyor systems. Thanks to them, seed packets keep flowing steadily from the back lines to the front. Even when removed from conveyors, they still retain their ability to direct movement.</color>",
-            "info": "<size=36>Zombies, please follow the directions. No pushing; move in an orderly fashion.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Cannot be moved by the Glove.\n<color=black>•</color> Click to select another Signpost Arrow in the same lane or column and set it as the destination.\n<color=black>•</color> Zombies that touch it will be redirected toward the set destination.\n<color=black>•</color> Used in Zombie Sorter & Super Level Editor for making TD levels.\n<color=black>•</color> Outside of the editor, it transforms into an Imitater card upon spawning.</color>",
+            "info": "<size=36>Zombies, please follow the directions. No pushing; move in an orderly fashion.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Cannot be moved by the Glove.\n<color=black>•</color> Click to select another Signpost Arrow in the same lane or column and set it as the destination.\n<color=black>•</color> Zombies that touch it will be redirected toward the set destination.\n<color=black>•</color> Used in Zombie Sorter & Super Level Editor for making TD levels.\n<color=black>•</color> Outside of the editor, it transforms into an Imitater seed packet upon spawning.</color>",
             "cost": ""
         },
         {
@@ -1327,7 +1327,7 @@
             "seedType": 1005,
             "name": "Explode-o-shooter",
             "introduce": "<align=left><size=36><color=black>Meet Explode-o-shooter, the ultimate plant killer. He's more irritable than ever—who would've thought the warm and friendly Cherryshooter would swallow another special cherry? Don't push your luck with him. That cherry stuck in his throat might just be his next shot—his face is already turning red!</color></size>",
-            "info": "<size=36>Shoots out explosive cherries that explode on impact.\n\n<color=black>Damage: </color><color=#8B0000>300/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Its bullets will deal area explosion damage.\n<color=black>•</color> Has immunity to cherry explosions.\n<color=black>•</color> Reduces the Recharge of the last Cherry Bomb seed packet used for its fusion by 85%.</color></size>",
+            "info": "<size=36>Shoots out explosive cherries that explode on impact.\n\n<color=black>Damage: </color><color=#8B0000>300/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Its projectiles will deal area explosion damage.\n<color=black>•</color> Has immunity to cherry explosions.\n<color=black>•</color> Reduces the Recharge of the last Cherry Bomb seed packet used for its fusion by 85%.</color></size>",
             "cost": "<size=36>Fusion Recipe: <color=#8B0000>Peashooter + Cherry Bomb + Cherry Bomb</color>"
         },
         {
@@ -2587,7 +2587,7 @@
             "seedType": 1185,
             "name": "Lumos Umbrella",
             "introduce": "<align=left><size=36><color=black>Beyond the fog, she watches, a prophet untouched by mortal blindness. When God willed light into existence, she stepped forth. \"By decree of the Almighty, I have come to the land of Seth. The fire looms, but with this sacred light, I shall protect the lost from its grasp.\"</color>",
-            "info": "<size=36>It can dispel fog and block bullets.\n\n<color=black>Energy Limit: </color><color=#8B0000>2000</color>\n<color=black>Shield & Light Range: </color><color=#8B0000>3×3</color>\n<color=black>Special: <color=#99582a>Lumos System</color></color><color=#8B0000>\n<color=black>•</color> Provides 1 Lumos Level and dispels fog like a Plantern.\n<color=black>•</color> Consumes Energy to block projectiles. Each block consumes Energy based on the damage of the projectile (excluding basketballs). Tridents cannot be blocked.\n<color=black>•</color> Restores (25 x Lumos Level) Energy every second, pausing to rest for 5 seconds when it is completely exhausted.\n<color=black>•</color> Reduces Energy first to absorb damage, where 5 Energy = 1 Toughness.</color>",
+            "info": "<size=36>It can dispel fog and block projectiles.\n\n<color=black>Energy Limit: </color><color=#8B0000>2000</color>\n<color=black>Shield & Light Range: </color><color=#8B0000>3×3</color>\n<color=black>Special: <color=#99582a>Lumos System</color></color><color=#8B0000>\n<color=black>•</color> Provides 1 Lumos Level and dispels fog like a Plantern.\n<color=black>•</color> Consumes Energy to block projectiles. Each block consumes Energy based on the damage of the projectile (excluding basketballs). Tridents cannot be blocked.\n<color=black>•</color> Restores (25 x Lumos Level) Energy every second, pausing to rest for 5 seconds when it is completely exhausted.\n<color=black>•</color> Reduces Energy first to absorb damage, where 5 Energy = 1 Toughness.</color>",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Plantern + Umbrella Leaf</color>"
         },
         {

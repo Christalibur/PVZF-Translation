@@ -132,7 +132,7 @@
         "12002": "Berserker Snipea's critical hit will now be guaranteed.",
         "12003": "Threepeatato-mine's projectiles will now trigger a Potato Mine explosion when hitting a zombie.",
         "12004": "When Doom Chomper attacks, it will trigger a Doom explosion regardless of if it swallows a zombie or not. If it swallows a zombie, it will trigger two Doom explosions.",
-        "12005": "Armageddon-shroom releases a 1-million damage Doom-shroom explosion upon death."
+        "12005": "Shroomageddon releases a 1-million damage Doom-shroom explosion upon death."
     },
     "ultimateBuffs": {
         "0": "Cherrizilla & Garlizilla: HP Recovery ×3",
