@@ -467,5 +467,6 @@
   "究极冰神西瓜获得30%独立伤害增幅\n当前增幅：(\\d+)%": "Maelonstrom: Gains 30% extra damage\nCurrent Bonus: {0}%",
   "究极冰神西瓜获得20%速度增幅\n当前增幅：(\\d+)%": "Maelonstrom: Gains 20% extra speed\nCurrent Bonus: {0}%",
   "究极超时空玉米获得60%独立伤害增幅\n当前增幅：(\\d+)%": "Quantum McCornics: Gains 60% extra damage\nCurrent Bonus: {0}%",
-  "强化：([^\\s：]+)": "Upgrade: {0}"
+  "强化：([^\\s：]+)": "Upgrade: {0}",
+  "时间陷阱：剩余时间：([^\\s：]+)秒": "Time Attack | Remaining Time: {0}s"
 }
