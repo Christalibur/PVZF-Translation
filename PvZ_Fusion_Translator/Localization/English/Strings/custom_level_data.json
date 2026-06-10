@@ -250,6 +250,14 @@
     "level_1780837244022_af05ow96c": {
         "name": "3.7.0 Mini-game\nAnimal Kingdom",
         "startTip": "It's recommended to have Spruce Supershooter\nunlocked before trying this level."
+    },
+    "level_1780837209820_yjtoz5vd1": {
+        "name": "3.7.0 Mini-game      No Entry",
+        "startTip": "Spikeweed type plants have a massive damage boost! Don't let any of the torchweeds die!\nClick on the Obsidian Spikerock to switch it to its subspecies and back!\nThe glove has no cooldown in this level. Not recommend to play on mobile."
+    },
+    "level_1780837556708_p88p406xs": {
+        "name": "3.7.0 Mini-game   Blover's New Trick",
+        "startTip": "Blover has mastered a brand new trick: Blowing plants into small versions! (But since Potato Mine and Sun-shroom are already short, Blover can't affect them.)\nUse Blover to control the size of plants and avoid the Zombotany projectiles!\nP.S. For the spirit of the level, try not to stack shrooms or fuse too much. These fusions are allowed: Repeater, Split Pea, Gatling Pea, Buckshooter and Spicicle.\nThe Pea-shroom line has their stats nerfed this level, while normal Starfruit has been buffed.\nBlover can re-enlarge a shrunken plant. Planting a pumpkin will give all plants 10000 shield."
     }
 
 }
