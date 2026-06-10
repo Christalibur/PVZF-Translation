@@ -234,5 +234,22 @@
     "level_1778122091555_oipuz64r3": {
         "name": "3.6.1 The Gods: Trials of Melon",
         "startTip": "The zombies are causing trouble? Give them a taste of your melons!\nDon't let the Melon-nut die!"
+    },
+    "level_1780635498836_of2p1762p": {
+        "name": "3.6.1 Mini-game    <color=#FF0000>Purgatory: Ashes to Ashes",
+        "startTip": "This level starts with the highest spawn multipiler possible, you'll have 150 seconds of setup time to prepare.\nElite zombies similar to the mini-bosses will show up on huge waves, each representing <color=#000000>Omega Assassin Squad</color>, <color=#00E3E3>Pozeidon</color>, <color=#BEBEBE>Jackson Worldwide</color>, <color=#600000>Giga Football Striker</color>, <color=#FF0000>Queen </color><color=#2828FF>Jill-in-the-Box</color>, <color=#820041>Giga Football Archduke</color>, <color=#5E005E>Abyssal Gargantuar</color>, and <color=#D200D2>Mecha Skystrider</color>. Be prepared.\nRemember to view modifiers for the best experience."
+    },
+    "level_1780760938229_6hoexucn9": {
+        "name": "3.7.0 Mini-game   Invasion: Backup!",
+        "startTip": "Some plants have been altered for this level.\nThe glove has no cooldown this level.\nAttention, you will automatically lose this level after 17 minutes.\nA Blover seed packet will be given after 10 minutes, plant it to attempt evacuation. (costs 1250 sun, evacuating successfully wins the level.)\nDefeating the Abyssal Gargantuar on the last wave also automatically wins you the level.\u000bThrough coding magic, you can use slow mode to keep text on screen for longer~\nIf you think this level is too easy, try keeping the usage of plants in the seed slots like Sunflower/Spicicle/Pepper Popper/Hearty Apple to a minimum or none at all."
+    },
+    "level_1780837101856_vorc2o4ku": {
+        "name": "3.7.0 The Gods: Trials of Melon",
+        "startTip": "The zombies are causing trouble? Give them a taste of your melons!\nDon't let the Melon-nut die!"
+    },
+    "level_1780837244022_af05ow96c": {
+        "name": "3.7.0 Mini-game\nAnimal Kingdom",
+        "startTip": "It's recommended to have Spruce Supershooter\nunlocked before trying this level."
     }
+
 }
