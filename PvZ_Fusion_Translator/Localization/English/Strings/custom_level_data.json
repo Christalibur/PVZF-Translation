@@ -258,6 +258,18 @@
     "level_1780837556708_p88p406xs": {
         "name": "3.7.0 Mini-game   Blover's New Trick",
         "startTip": "Blover has mastered a brand new trick: Blowing plants into small versions! (But since Potato Mine and Sun-shroom are already short, Blover can't affect them.)\nUse Blover to control the size of plants and avoid the Zombotany projectiles!\nP.S. For the spirit of the level, try not to stack shrooms or fuse too much. These fusions are allowed: Repeater, Split Pea, Gatling Pea, Buckshooter and Spicicle.\nThe Pea-shroom line has their stats nerfed this level, while normal Starfruit has been buffed.\nBlover can re-enlarge a shrunken plant. Planting a pumpkin will give all plants 10000 shield."
+    },
+    "level_1780804917778_brmhn2t2t": {
+        "name": "3.7.0 Mini-game   Metalsmithing",
+        "startTip": "<size=18>Welcome to the metalsmithing factory! Here you'll be able to using <color=yellow>smithing</color> to treat excess metal objects!\nThis technology can extract the metal objects out of metal plants, and use them to unlock powerful <color=yellow>smithing upgrades</color>!\n<color=#00FFFF>Click on smithing upgrades in your seed slots to view more infomation. (That's the yellow Chinese text up there.)"
+    },
+    "level_1780983849209_7ktu2g6cd": {
+        "name": "3.7.0 Mini-game Invasion: Garden Extermination Plan",
+        "startTip": "Plants will be given after completing missions, while the zombies will send bigger and bigger invasions.\nClick on plants to see your progress on a mission. The glove has no cooldown in this level.\n(This level is a sequel to the level: 'Invasion: Backup!')"
+    },
+    "level_1780761321421_fvzn0p76x": {
+        "name": "3.7.0 Mini-game  Protect and Evacuate",
+        "startTip": "Some plants have been left behind on the battlefield, and the zombies are coming for them!\nYour mission is to help these plants evacuate safely using sun. As thanks, they'll give you resources like Sun or seed packets.\nAll plants that require evacutaion are marked by craters.\nDon't move or fuse these plants with anything, or else you'll lose the level.\nThe level will be automatically beaten after evacuating all plants.\r\n(Tn: For some reason I can't get the strings from this level so the rest of it is untranslated, sorry Q_Q)"
     }
 
 }
