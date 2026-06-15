@@ -473,5 +473,7 @@
   "最多(\\d+)株植物": "Up to {0} Plant(s)",
   "^([^\\s：]+)\n\n该难度下还没有通关过": "{0}\n\nYou have not completed this difficulty yet.",
   "^([^\\s：]+)\n\n该难度已经通关了(\\d+)次": "{0}\n\nYou have completed this difficulty {1} time(s).",
-  "无尽模式，你能撑到第几轮？\n\n最大轮数：(\\d+)": "How long can you survive?\n\nCurrent Highscore: {0} Rounds"
+  "无尽模式，你能撑到第几轮？\n\n最大轮数：(\\d+)": "How long can you survive?\n\nCurrent Highscore: {0} Rounds",
+  "未找到节点ID: ([^\\s：]+)": "Unable to find Node with ID: {0}",
+  "(\\d+)种类型": "{0} Type(s)"
 }
