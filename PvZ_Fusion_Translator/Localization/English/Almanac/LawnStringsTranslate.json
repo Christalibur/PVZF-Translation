@@ -4272,8 +4272,8 @@
         },
         {
             "seedType": 1426,
-            "name": "Floatato",
-            "introduce": "<align=left><size=36><color=black>Floatato is deeply troubled. He has a toothache, but can't find a dentist willing to operate on his tiny little tooth.</color>",
+            "name": "Levitater",
+            "introduce": "<align=left><size=36><color=black>Levitater is deeply troubled. He has a toothache, but can't find a dentist willing to operate on his tiny little tooth.</color>",
             "info": "<size=36>Allows Potato Mines on its tile to rearm themselves after exploding.\n\n<color=black>Special: </color><color=#8B0000>When a Potato Mine-type plant on the same tile self-destructs upon contact with an enemy, it does not disappear and instead buries itself again to rearm (this ability has a 15s CD).</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Potato Mine + Blover</color>"
         },
