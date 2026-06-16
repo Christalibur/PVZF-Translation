@@ -475,5 +475,6 @@
   "^([^\\s：]+)\n\n该难度已经通关了(\\d+)次": "{0}\n\nYou have completed this difficulty {1} time(s).",
   "无尽模式，你能撑到第几轮？\n\n最大轮数：(\\d+)": "How long can you survive?\n\nCurrent Highscore: {0} Rounds",
   "未找到节点ID: ([^\\s：]+)": "Unable to find Node with ID: {0}",
-  "(\\d+)种类型": "{0} Type(s)"
+  "(\\d+)种类型": "{0} Type(s)",
+  "^([\\s\\S]+)\n\n<b>节点ID:</b> ([\\s\\S]+)": "{0}\n\n<b>Node ID:</b> {1}"
 }
