@@ -422,7 +422,7 @@
         },
         {
             "theZombieType": 70,
-            "name": "Football Knight Captain Zombie",
+            "name": "Knight Captain Zombie",
             "introduce": "<align=left><size=36><color=black>Jed and his horse Spiky are superstars in the Seven Undercontinents Zombie Football League. With Spiky's speed and Football launchers he bought at high prices from plants, they sweep through the field. Even though this is a serious foul, and the projectiles aren't even footballs, no one cares as long as he targets the few referees who actually understand football first.</color>",
             "info": "<size=36>Calls reinforcements and goes berserk when his horse dies. \n\n<color=black>Damage: </color><color=#4B0082>80×4/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>1800 (self) + 1400 (horse)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Only appears in flag waves, immune to knockback.\n<color=black>•</color> Summons a Zombie Horseman in every lane when body HP drops to 50%.\n<color=black>•</color> While alive, provides a 66% damage reduction to the summoned Horsemen.\n<color=black>•</color> The horse can trample plants and protects the rider like Type 2 Armor.\n<color=black>•</color> If the horse dies first, the Captain dismounts as a Giga Buckshot Commando with fully restored HP, and starts to fire Iron peas every 0.1s.</color>"
         },
@@ -476,7 +476,7 @@
         },
         {
           "theZombieType": 79,
-          "name": "Charger Football Zombie",
+          "name": "Charger Knight Zombie",
           "introduce": "<align=left><size=36><color=black>Rather than smashing through defenses head-on, the Charger Football Zombie excels at using his agility to dash straight past them. What confuses him most is that, despite effortlessly bypassing countless defenses, he still can't get past that seemingly harmless lawn mower.</color>",
           "info": "<size=36>Advances by nimbly circumventing blocking plants.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1400  (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Ignores plants.</color>"
         },
@@ -644,8 +644,8 @@
         },
         {
             "theZombieType": 118,
-            "name": "Pea-storm Football Zombie",
-            "introduce": "<align=left><size=36><color=black>They say fate is unpredictable, and Pea Commando Football Zombie would have to agree. One second, he's in a vegetarian batting cage. The next? He's accidentally ingested a high-powered pitching machine. Now, his new un-life is just one endless round of rapid-fire peas.</color>",
+            "name": "Pea Commando Zombie",
+            "introduce": "<align=left><size=36><color=black>They say fate is unpredictable, and Pea Commando Zombie would have to agree. One second, he's in a vegetarian batting cage. The next? He's accidentally ingested a high-powered pitching machine. Now, his new un-life is just one endless round of rapid-fire peas.</color>",
             "info": "<size=36>Unleashes a relentless barrage of peas at your defenses!\n\n<color=black>Damage: </color><color=#4B0082>20/0.1s</color>\n<color=black>Toughness: </color><color=#4B0082>270 + 1400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Constantly shoots volleys of peas at your plants.</color>"
         },
         {
@@ -878,8 +878,8 @@
         },
         {
             "theZombieType": 225,
-            "name": "Giga Buckshot Commando Zombie",
-            "introduce": "<align=left><size=36><color=black>Giga Buckshot Commando Zombie is a warrior made of iron — iron body, iron will, iron bullets, and an ironic attitude towards complaints from his colleagues. He firmly believes that the zombies being knocked back by his bullets must simply lack the kind of iron-refining training he’s undergone.</color>",
+            "name": "Buckshot Commando Zombie",
+            "introduce": "<align=left><size=36><color=black>Buckshot Commando Zombie is a warrior made of iron — iron body, iron will, iron bullets, and an ironic attitude towards complaints from his colleagues. He firmly believes that the zombies being knocked back by his bullets must simply lack the kind of iron-refining training he’s undergone.</color>",
             "info": "<size=36>An unstoppable warrior. Fearless and peerless.\n\n<color=black>Damage: </color><color=#4B0082>80/0.1s; 100 (bite)</color>\n<color=black>Toughness: </color><color=#4B0082>3000 + 3000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Knock backs. Fires iron peas at your defense at a ridiculous rate, which can knock back hypnotized zombies. </color>"
         },
         {
@@ -902,8 +902,8 @@
         },
         {
             "theZombieType": 229,
-            "name": "<u>Giga Football Archduke</u>",
-            "introduce": "<align=left><size=36><color=black>Giga Football Striker and Giga Football Archduke have known each other for a long time. They have attacked gardens together, trained soldiers together, and competed for vice-generals. In their spare time, they also play a tense and exciting game of live-action Chinese chess, letting their subordinates act as the pieces while the two commanders direct from the center, although they always can't resist running out of the palace.</color>",
+            "name": "<u>Archduke Deathrider</u>",
+            "introduce": "<align=left><size=36><color=black>Giga Football Striker and Archduke Deathrider have known each other for a long time. They have attacked gardens together, trained soldiers together, and competed for vice-generals. In their spare time, they also play a tense and exciting game of live-action Chinese chess, letting their subordinates act as the pieces while the two commanders direct from the center, although they always can't resist running out of the palace.</color>",
             "info": "<size=36>Commands the calamitous wrath of the cursed iron cavalry.\n\n<color=black>Damage: </color><color=#4B0082>80/0.1s</color>\n<color=black>Movement Speed: </color><color=#4B0082>Fast; Extremely Fast during Charge</color>\n<color=black>Toughness: </color><color=#4B0082>36000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to chill, knock-backs and stuns. Crushes plants. \n<color=black>•</color> Heals for 200 HP every 0.1s.\n<color=black>•</color> Without plants blocking his way, he can appear in as far as the fifth column from the right and then charges, riding a warhorse that crushes plants.\n<color=black>•</color> When its charge hits a plant, it pauses for ~1.5s, then charges again every 10s.\n<color=black>Curse Application</color> Every 0.1s, 1/3 chance to apply [0.2%(Plant HP + Toughness)/2] curse stacks to all plants. Bullet hits apply [0.1×(Plant HP + Toughness)/2] stacks. Upon collision, applies [0.1×(Plant HP + Toughness)/2] stacks to plants in a 5×5 area.\n<color=black>Curse: </color>Damages a plant at full health. When stacks are not zero, increases by 1 stack every 0.1 seconds. If the plant's HP is lower than the stack count, the plant dies immediately. Healing first cancels an equal number of stacks, then restores HP.\n<color=black>Odyssey Modifier:</color> When dismounting, transforms the steed into a scythe. Recovers 200 HP for its armor every 0.1 seconds. No longer bites plants, but attacks by swinging the scythe.\nSwing: Every 1.35 seconds, causes plants in its current tile and the 5 tiles ahead (can be blocked by Pumpkins) to lose HP equal to its own bite damage, and reduces their Toughness by 50% of the damage dealt, while recovering 10% of the damage as HP for itself. For each plant this effect acts upon, all its damage permanently increases by 10%.\nCharge: Every 10 seconds, if in the 4th column or to its right on the map, it can leap to the 2nd column, sequentially releasing 1, 4, and 8 explosions with damages of 1500, 1200, and 1000 respectively (can be blocked by Pumpkins), then vaults to the rightmost column to repeat the aforementioned explosion sequence once.</color>"
         },
         {
@@ -915,7 +915,7 @@
         {
             "theZombieType": 231,
             "name": "<u><i>Vengeful Archduke</i></u>",
-            "introduce": "<align=left><size=36><color=black>War is the finest whetstone for a commander. Once demoted and defeated, the Giga Football Archduke returned from hellish training with his steed, ready to rebuild his command platform from the corpses of his enemies.</color>",
+            "introduce": "<align=left><size=36><color=black>War is the finest whetstone for a commander. Once demoted and defeated, the Archduke Deathrider returned from hellish training with his steed, ready to rebuild his command platform from the corpses of his enemies.</color>",
             "info": "<size=36>\"Come, my fallen warriors - take their souls!\"\n\n<color=black>Damage: </color><color=#4B0082>500 (sword slash)</color>\n<color=black>Toughness: </color><color=#4B0082>90000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Boss. Crushes plants and instantly defeats hypnotized zombies. Normally moves up and down in the rightmost column. Periodically uses one of the following skills:\n<color=black>1.</color> Waves his banner to summon 1 zombie in each lane.\n<color=black>2.</color> Charges forward, releasing a sword slash, then turns and releases another.\n<color=black>3.</color> Fires three wide sword slashes ahead.\n<color=black>4.</color> Summons a Phantom Archduke at the far right of each lane that charges left, dealing 1000 damage to plants along the way.\n<color=black>5.</color> Leaps to a random spot in the left or middle area, crushing plants, then returns to the right side.</color>"
         },
         {
@@ -1034,15 +1034,15 @@
         },
         {
             "theZombieType": 251,
-            "name": "Giga Charger Zombie",
-            "introduce": "<align=left><size=36><color=black>\"This is unfair! Football is a contact sport! Am I really being penalized just for tackling too hard?\" Giga Charger Zombie grumbled indignantly. \"Oh, certainly not. It was your horse that committed the foul; you may continue to participate in the match.\"</color>",
+            "name": "Black Knight Zombie",
+            "introduce": "<align=left><size=36><color=black>\"This is unfair! Football is a contact sport! Am I really being penalized just for tackling too hard?\" Black Knight Zombie grumbled indignantly. \"Oh, certainly not. It was your horse that committed the foul; you may continue to participate in the match.\"</color>",
             "info": "<size=36><color=#4B0082>Charges at plants riding a cursed steed in iron armor.\n\n<color=black>Toughness: </color>3000 + 6000 (Type 2)\n<color=black>Movement Speed: </color>Medium Fast; Extremely Fast when Charging\n<color=black>Traits:</color>\n<color=black>•</color> Immune to knockback.\n<color=black>•</color> Rides a steed that crushes plants.\n<color=black>•</color> Enters by charging; upon hitting a plant, applies [0.05 × (Plant HP + Toughness) / 2] curse stacks to that plant. Then advances steadily, applying [0.01 × (Plant HP + Toughness) / 2] curse stacks when crushing.\n<color=black>•</color> When the steed is defeated, dismounts, fully restores HP, and transforms into a Giga Football Zombie.</color>"
         },
         {
             "theZombieType": 252,
-            "name": "Giga Buckshot Charger",
-            "introduce": "<align=left><size=36><color=black>Equipped with a powerful, long-range Gatling gun, and clad in tough football gear for himself and his mount, Giga Buckshot Charger bought his knighthood with three brain combo meals. Using his flag to command and coordinate with his comrades, he is fully armed from body to name. \"Perhaps we should give him a simpler name, like Tank,\" Dr. Zomboss remarked.</color>",
-            "info": "<size=36><color=#4B0082>Advances steadily riding a cursed steed in iron armor, summoning his subordinates to attack when the situation turns unfavorable.\n\n<color=black>Damage: </color>80x6/1.5s\n<color=black>Toughness: </color>4500 + 9000 (Type 2)\n<color=black>Movement Speed: </color>Medium Fast\n<color=black>Traits:</color>\n<color=black>•</color> Immune to knockback.\n<color=black>•</color> Rides a steed that crushes plants.\n<color=black>•</color> When crushing, applies [0.01 × (Plant HP + Toughness) / 2] curse stacks. When base HP falls below 50%, summons a column of Giga Charger Zombies. When the steed is defeated, dismounts, fully restores HP, and transforms into a Giga Buckshot Commando Zombie.</color>"
+            "name": "Buckshot Knight Captain Zombie",
+            "introduce": "<align=left><size=36><color=black>Equipped with a powerful, long-range Gatling gun, and clad in tough football gear for himself and his mount, Buckshot Knight Captain Zombie bought his knighthood with three brain combo meals. Using his flag to command and coordinate with his comrades, he is fully armed from body to name. \"Perhaps we should give him a simpler name, like Tank,\" Dr. Zomboss remarked.</color>",
+            "info": "<size=36><color=#4B0082>Advances steadily riding a cursed steed in iron armor, summoning his subordinates to attack when the situation turns unfavorable.\n\n<color=black>Damage: </color>80x6/1.5s\n<color=black>Toughness: </color>4500 + 9000 (Type 2)\n<color=black>Movement Speed: </color>Medium Fast\n<color=black>Traits:</color>\n<color=black>•</color> Immune to knockback.\n<color=black>•</color> Rides a steed that crushes plants.\n<color=black>•</color> When crushing, applies [0.01 × (Plant HP + Toughness) / 2] curse stacks. When base HP falls below 50%, summons a column of Black Knight Zombies. When the steed is defeated, dismounts, fully restores HP, and transforms into a Buckshot Commando Zombie.</color>"
         },
         {
             "theZombieType": 253,
@@ -1054,13 +1054,13 @@
             "theZombieType": 254,
             "name": "War Mammoth Zombie",
             "introduce": "<align=left><size=36><color=black>After comprehensively considering the graveyard's size and material supplies, Dr. Zomboss decided that War Mammoth Zombies should be deployed in squads of at most three. However, the Striker and the Archduke raised objections, arguing that three elephants are simply not enough for them to play a game of Chinese chess.</color>",
-            "info": "<size=36><color=#4B0082>Guards the General and Commander until death.\n\n<color=black>Toughness: </color>18000\n<color=black>Damage: </color>1800\n<color=black>Movement Speed: </color>Slow\n<color=black>Traits: </color>\n<color=black>•</color> Only appears in Flag waves.\n<color=black>•</color> Immune to knockback and being hypnotized.\n<color=black>•</color> Regardless of where it comes from, takes damage on behalf of the Giga Football Striker and Giga Football Archduke.\n<color=black>•</color> Every 12th attack causes a crush, pushing non-mini-boss zombies at its feet forward by 0.74 tiles.\n<color=black>Odyssey Modifiers: </color>\n1. Spawns in groups of 3\n2. For each one present on the field, all Mini-boss Zombies gain 100 DR Value</color>"
+            "info": "<size=36><color=#4B0082>Guards the General and Commander until death.\n\n<color=black>Toughness: </color>18000\n<color=black>Damage: </color>1800\n<color=black>Movement Speed: </color>Slow\n<color=black>Traits: </color>\n<color=black>•</color> Only appears in Flag waves.\n<color=black>•</color> Immune to knockback and being hypnotized.\n<color=black>•</color> Regardless of where it comes from, takes damage on behalf of the Giga Football Striker and Archduke Deathrider.\n<color=black>•</color> Every 12th attack causes a crush, pushing non-mini-boss zombies at its feet forward by 0.74 tiles.\n<color=black>Odyssey Modifiers: </color>\n1. Spawns in groups of 3\n2. For each one present on the field, all Mini-boss Zombies gain 100 DR Value</color>"
         },
         {
             "theZombieType": 255,
             "name": "Buckshot Bobsled Brigade",
             "introduce": "<align=left><size=36><color=black>Four Giga Football-nut Zombie pooled a year's worth of salary to buy and modify this extended motorized sled. Although its previous owner was quite skilled in ice dancing, rather than performing the 'Dance of the Little Swans', they now only intend to perform the 'Four Heavenly Kings' for the plants.</color>",
-            "info": "<size=36><color=#4B0082>Delivers a squad of 4 Giga Buckshot Commando Zombies to the battlefield.\n\n<color=black>Toughness: </color>3000\n<color=black>Movement Speed: </color>Medium\n<color=black>Traits: </color>Immune to knockback. Ignores plants.\n<color=black>•</color> Loses HP equal to 1% of its Toughness every 0.1 seconds.\n<color=black>•</color> Instantly dies upon reaching the fourth column and to its left, spawning 4 4 Giga Buckshot Commando Zombies upon death.\n<color=black>Odyssey Modifiers:</color>\n1. Now has immunity to Freeze and Butter.\n2. Now enters the battlefield rapidly, but its speed gradually decreases.</color>"
+            "info": "<size=36><color=#4B0082>Delivers a squad of 4 Buckshot Commando Zombies to the battlefield.\n\n<color=black>Toughness: </color>3000\n<color=black>Movement Speed: </color>Medium\n<color=black>Traits: </color>Immune to knockback. Ignores plants.\n<color=black>•</color> Loses HP equal to 1% of its Toughness every 0.1 seconds.\n<color=black>•</color> Instantly dies upon reaching the fourth column and to its left, spawning 4 4 Buckshot Commando Zombies upon death.\n<color=black>Odyssey Modifiers:</color>\n1. Now has immunity to Freeze and Butter.\n2. Now enters the battlefield rapidly, but its speed gradually decreases.</color>"
         },
         {
             "theZombieType": 300,
